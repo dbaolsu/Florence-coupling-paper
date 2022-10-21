@@ -1,0 +1,358 @@
+set font to TimesBold
+set font size 10
+set axes style 1   
+set line width axis 1    
+
+#########################################################################
+
+set line width 1.5
+
+set x margin 2.0
+set y margin 18.7
+set x size 15
+set y size 3.7
+
+set x axis 0 51.435 5 5
+set y axis -0.6 1.2 0.5 0.5
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\along_channle_el_126.txt"
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+x/=1000
+set color black
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+x/=1000
+set color red
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+x/=1000
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=5
+x/=1000
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=6
+x/=1000
+set color rgb 0 0.45 0.7
+set dash 1
+draw curve
+end while
+close \A    
+set dash 0
+
+set color black
+
+set x format off
+set y format "%.1f"    
+set axes style 0
+draw axes 
+
+draw label "(a)" at 16.45 22.0 cm
+
+draw label "9/13 5:00 (I)" centered at {rpn ..xmargin.. ..xsize.. 2 / +} {rpn ..ymargin..  ..ysize.. 0.9 * +} cm
+
+##########################################################################
+
+set x margin 2.0
+set y margin 14.4
+set x size 15
+set y size 3.7
+
+set x axis 0 51.435 5 5
+set y axis -0.6 1.2 0.5 0.5
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\along_channle_el_150.txt"
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+x/=1000
+set color black
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+x/=1000
+set color red
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+x/=1000
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=5
+x/=1000
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=6
+x/=1000
+set color rgb 0 0.45 0.7
+set dash 1
+draw curve
+end while
+close \A    
+set dash 0
+
+set color black
+
+set x format off
+set y format "%.1f"    
+draw axes 
+
+draw label "(b)" at 16.45 17.7 cm
+
+draw label "9/14 5:00 (II)" centered at {rpn ..xmargin.. ..xsize.. 2 / +} {rpn ..ymargin..  ..ysize.. 0.9 * +} cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 10.1
+set x size 15
+set y size 3.7
+
+set x axis 0 51.435 5 5
+set y axis -0.6 1.2 0.5 0.5
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\along_channle_el_170.txt"
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+x/=1000
+set color black
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+x/=1000
+set color red
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+x/=1000
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=5
+x/=1000
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=6
+x/=1000
+set color rgb 0 0.45 0.7
+set dash 1
+draw curve
+end while
+close \A    
+set dash 0
+
+set color black
+
+set x format off
+set y format "%.1f"    
+draw axes 
+
+draw label "(c)" at 16.45 13.4 cm
+
+draw label "9/15 1:00 (II)" centered at {rpn ..xmargin.. ..xsize.. 2 / +} {rpn ..ymargin..  ..ysize.. 0.9 * +} cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 5.8
+set x size 15
+set y size 3.7
+
+set x axis 0 51.435 5 5
+set y axis -0.6 1.2 0.5 0.5
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\along_channle_el_212.txt"
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+x/=1000
+set color black
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+x/=1000
+set color red
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+x/=1000
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=5
+x/=1000
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=6
+x/=1000
+set color rgb 0 0.45 0.7
+set dash 1
+draw curve
+end while
+close \A    
+set dash 0
+
+set color black
+
+set x format off
+set y format "%.1f"    
+draw axes 
+
+draw label "(d)" at 16.45 9.1 cm
+
+draw label "9/16 19:00 (III)" centered at {rpn ..xmargin.. ..xsize.. 2 / +} {rpn ..ymargin..  ..ysize.. 0.9 * +} cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 1.5
+set x size 15
+set y size 3.7
+
+set x axis 0 51.435 5 5
+set y axis -0.6 1.2 0.5 0.5
+
+set x name "Distance from the head (km)"
+set y name "Water level (m)"
+draw axes none
+
+\A="data\along_channle_el_298.txt"
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+x/=1000
+set color black
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+x/=1000
+set color red
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+x/=1000
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=5
+x/=1000
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=6
+x/=1000
+set color rgb 0 0.45 0.7
+set dash 1
+draw curve
+end while
+close \A    
+set dash 0
+
+set color black
+                        
+set x format "%.0f"
+set y format "%.1f"                      
+draw axes 
+
+draw label "(e)" at 16.45 4.8 cm
+
+draw label "9/20 9:00 (IV)" centered at {rpn ..xmargin.. ..xsize.. 2 / +} {rpn ..ymargin..  ..ysize.. 0.9 * +} cm
+
+#########################################################################
+
+quit
+
+

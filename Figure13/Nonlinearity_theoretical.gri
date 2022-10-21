@@ -1,0 +1,72 @@
+set font to TimesBold
+set axes style 1   
+set line width axis 1    
+
+set x margin 2.0
+set y margin 1.5
+set x size 15
+set y size 10
+
+set x axis -1 1 0.2 0.2
+set y axis -0.5 0.5 0.1 0.1
+
+set font size 10
+set x name "$\eta$$_0$"
+set y name "$\Delta$$\eta$"
+draw axes none
+
+set font size 10
+
+\A="data\Nonlinearity_theoretical.txt"
+set color black
+open \A
+while !..eof..
+read columns  x=1 y=2
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=3
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=5
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=6
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=7
+draw curve
+end while
+close \A    
+                        
+set x format "%.1f"
+set y format "%.1f"                      
+draw axes 
+
+draw label "Q=5000" at 1.01 -0.389
+draw label "Q=4000" at 1.01 -0.300
+draw label "Q=3000" at 1.01 -0.204
+draw label "Q=2000" at 1.01 -0.111
+draw label "Q=1000" at 1.01 -0.041
+draw label "Q=0" at 1.01 -0.008
+
+quit
+
+
