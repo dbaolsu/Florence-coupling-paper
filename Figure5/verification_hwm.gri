@@ -1,0 +1,56 @@
+set font to TimesBold
+set font size 14
+set axes style 1   
+set line width axis 1    
+
+set x margin 2.0
+set y margin 1.5
+set x size 15
+set y size 15
+
+set x axis 0 16 2 1
+set y axis 0 16 2 1
+
+set x name "Observed elevation (m)"
+set y name "Modelled elevation (m)"
+draw axes none
+
+\A="data\linear.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \A     
+
+\A="data\regression.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color black
+set dash 0.3 0.3
+draw curve
+set dash 0
+end while
+close \A    
+
+\A="data\point.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color black
+set symbol size 0.3
+draw symbol bullet
+end while
+close \A     
+                        
+set x format "%.0f"
+set y format "%.0f"                      
+draw axes 
+
+draw label "Linear fit: y=1.0608x+0.094" at 7 15.5 cm
+
+quit
+
+

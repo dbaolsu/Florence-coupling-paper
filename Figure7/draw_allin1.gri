@@ -1,0 +1,398 @@
+set font to TimesBold
+set font size 10
+set axes style 1   
+set line width axis 1    
+
+\line0="data\line0.txt" 
+
+#########################################################################
+
+set x margin 2.0
+set y margin 23.0
+set x size 15
+set y size 3.7
+
+\data1="data\estuary_wind.txt"
+\f4="data\estuary_wind_scale.txt"
+
+set x axis 0 720 48 24
+set y axis -100 100 200 200
+
+set x name ""
+set y name ""
+draw axes none
+
+set arrow size 0.02
+set u scale 0.1
+set v scale 0.1
+set symbol size 0.15 cm
+set line width 0.3
+
+open \data1
+read columns x=1 y=2 u=3 v=4
+draw arrows
+close \data1
+
+set line width 0.7
+open \f4
+read columns x=1 y=2 u=3 v=4
+draw arrows
+close \f4
+draw label "10 m/s" at 651 77
+                        
+set x format off
+set y format off     
+draw axes
+
+draw label "Wind" centered at {rpn ..xmargin.. 1.2 - } {rpn ..ymargin.. ..ysize.. 2 / +} cm rotated 90
+
+draw label "(a)" at 2.1 26.3 cm
+
+#########################################################################
+
+set line width 1.5
+
+set x margin 2.0
+set y margin 18.7
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis -1 1.5 0.5 0.5
+
+set x name ""
+set y name "Water level at head (m)"
+draw axes none
+
+\A="data\elevation_upper.txt" 
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+
+set x format off
+set y format "%.1f"    
+draw axes 
+
+draw label "(b)" at 2.1 22.0 cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 14.4
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis -1 1.5 0.5 0.5
+
+set x name ""
+set y name "Water level at mouth (m)"
+draw axes none
+
+\A="data\elevation_mouth.txt" 
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+
+set x format off
+set y format "%.1f"    
+draw axes 
+
+draw label "(c)" at 2.1 17.7 cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 10.1
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis -1.0 1.0 0.5 0.5
+
+set x name ""
+set y name "Water level Difference (m)"
+draw axes none
+
+\A="data\elevation_gradient.txt" 
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+                        
+set x format off
+set y format "%.1f"                      
+draw axes 
+
+draw label "(d)" at 2.1 13.4 cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 5.8
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis -4 3 2 1
+
+set x name ""
+set y name "Flux at head ( $\times\$10^3$ $m^3$/s )"
+draw axes none
+
+\A="data\flux_upper.txt" 
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+y/=1000
+set color red
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+y/=1000
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+y/=1000
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+
+set x format off
+set y format "%.1f"    
+draw axes 
+
+draw label "(e)" at 2.1 9.1 cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 1.5
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis -4 3 2 1
+
+set x name ""
+set y name "Flux at mouth ( $\times\$10^3$ $m^3$/s )"
+draw axes none
+
+\A="data\flux_mouth.txt" 
+
+open \A
+while !..eof..
+read columns  x=1 y=2
+y/=1000
+set color red
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+y/=1000
+set color rgb 0.9 0.6 0
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+y/=1000
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+
+set x format off
+set y format "%.1f"    
+draw axes 
+
+draw label "9/8" at  -11 -5.0 #0-11
+draw label "9/10" at 32  -5.0  #48-16
+draw label "9/12" at 80  -5.0  #96-16
+draw label "9/14" at 128 -5.0  #144-16
+draw label "9/16" at 176 -5.0  #192-16
+draw label "9/18" at 224 -5.0  #240-16
+draw label "9/20" at 272 -5.0  #288-16
+draw label "9/22" at 320 -5.0  #336-16
+draw label "9/24" at 368 -5.0  #384-16
+draw label "9/26" at 416 -5.0  #432-16
+draw label "9/28" at 464 -5.0  #480-16
+draw label "9/30" at 512 -5.0  #528-16
+draw label "10/2" at 560 -5.0  #576-16
+draw label "10/4" at 608 -5.0  #624-16
+draw label "10/6" at 656 -5.0  #672-16
+draw label "10/8" at 704 -5.0  #720-16
+
+set arrow size 0.05
+set line width 0.7
+draw arrow from 110 -4.0 to 110 -3.5
+draw arrow from 137 -4.0 to 137 -3.5 #134
+draw arrow from 157 -4.0 to 157 -3.5 #154
+draw arrow from 196 -4.0 to 196 -3.5
+draw arrow from 282 -4.0 to 282 -3.5
+set line width 1.0
+
+draw label "(f)" at 2.1 4.8 cm
+
+#########################################################################
+\vertical1="data\vertical1.txt"
+\vertical2="data\vertical2.txt"
+\vertical3="data\vertical3.txt"
+\vertical4="data\vertical4.txt"
+
+set graylevel 0.5
+set dash 0.15 0.15
+
+open \vertical1
+while !..eof..
+read columns  x=1 y=2
+draw curve
+end while
+close \vertical1
+
+open \vertical2
+while !..eof..
+read columns  x=1 y=2
+draw curve
+end while
+close \vertical2
+
+open \vertical3
+while !..eof..
+read columns  x=1 y=2
+draw curve
+end while
+close \vertical3
+
+open \vertical4
+while !..eof..
+read columns  x=1 y=2
+draw curve
+end while
+close \vertical4
+
+set font size 17
+draw label "I" at 3.65 27 cm
+draw label "II" at 4.98 27 cm
+draw label "III" at 5.72 27 cm
+draw label "IV" at 11 27 cm
+
+quit

@@ -1,0 +1,180 @@
+set font to TimesBold
+set font size 10
+set axes style 1   
+set line width axis 1    
+
+\line0="data\line0.txt" 
+
+set x margin 2.0
+set y margin 5.8
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis -1.5 2.5 1 0.5
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\Wrightsville_Beach_o.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A     
+\A="data\Wrightsville_Beach.txt"  
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color rgb 0.7 0.7 0.7
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=4
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A    
+open \A
+while !..eof..
+read columns  x=1 y=3
+set color black
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+
+set x format off
+set y format "%.0f"    
+draw axes 
+
+draw label "8658163" at 8.8 9.1 cm
+draw label "(a)" at 2.1 9.1 cm
+set font size 8
+draw label "R$^2$ =" at 12.06 8.9 cm
+draw label "RMSE =" at 11.55 8.6 cm
+set color rgb 0.5 0.5 0.5
+draw label "Stand-alone" at 12.69 9.2 cm
+draw label "0.81" at 13.16 8.9 cm
+draw label "0.22 (m)" at 13.16 8.6 cm
+set color rgb 0 0.45 0.7
+draw label "Linked" at 14.33 9.2 cm
+draw label "0.81" at 14.501 8.9 cm
+draw label "0.22 (m)" at 14.501 8.6 cm
+set color black
+draw label "Coupled" at 15.54 9.2 cm
+draw label "0.81" at 15.83 8.9 cm
+draw label "0.22 (m)" at 15.84 8.6 cm 
+set font size 10
+
+#########################################################################
+
+set x margin 2.0
+set y margin 1.5
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis -1.5 2.5 1 0.5
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\Wilmington_o.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A     
+\A="data\Wilmington.txt"  
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color rgb 0.7 0.7 0.7
+draw curve
+end while
+close \A   
+open \A
+while !..eof..
+read columns  x=1 y=4
+set color rgb 0 0.45 0.7
+draw curve
+end while
+close \A   
+open \A
+while !..eof..
+read columns  x=1 y=3
+set color black
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+                        
+set x format off
+set y format "%.0f"                      
+draw axes 
+
+draw label "9/8" at  -11 -2.0 #0-11
+draw label "9/10" at 32  -2.0  #48-16
+draw label "9/12" at 80  -2.0  #96-16
+draw label "9/14" at 128 -2.0  #144-16
+draw label "9/16" at 176 -2.0  #192-16
+draw label "9/18" at 224 -2.0  #240-16
+draw label "9/20" at 272 -2.0  #288-16
+draw label "9/22" at 320 -2.0  #336-16
+draw label "9/24" at 368 -2.0  #384-16
+draw label "9/26" at 416 -2.0  #432-16
+draw label "9/28" at 464 -2.0  #480-16
+draw label "9/30" at 512 -2.0  #528-16
+draw label "10/2" at 560 -2.0  #576-16
+draw label "10/4" at 608 -2.0  #624-16
+draw label "10/6" at 656 -2.0  #672-16
+draw label "10/8" at 704 -2.0  #720-16
+
+draw label "8658120" at 8.8 4.8 cm
+draw label "(b)" at 2.1 4.8 cm
+set font size 8
+draw label "R$^2$ =" at 12.06 4.6 cm
+draw label "RMSE =" at 11.55 4.3 cm
+set color rgb 0.5 0.5 0.5
+draw label "Stand-alone" at 12.69 4.9 cm
+draw label "0.67" at 13.16 4.6 cm
+draw label "0.54 (m)" at 13.16 4.3 cm
+set color rgb 0 0.45 0.7
+draw label "Linked" at 14.33 4.9 cm
+draw label "0.72" at 14.501 4.6 cm
+draw label "0.35 (m)" at 14.501 4.3 cm
+set color black
+draw label "Coupled" at 15.54 4.9 cm
+draw label "0.85" at 15.83 4.6 cm
+draw label "0.28 (m)" at 15.84 4.3 cm 
+
+quit
+
+

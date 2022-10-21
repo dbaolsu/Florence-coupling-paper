@@ -1,0 +1,216 @@
+set font to TimesBold
+set font size 10
+set axes style 1   
+set line width axis 1    
+
+\line0="data\line0.txt" 
+
+#########################################################################
+
+set x margin 2.0
+set y margin 10.1
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis 0 13 2 1
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\LOCK1_601_989_o1.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A      
+\A="data\LOCK1_601_989_o2.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A     
+\A="data\LOCK1_601_989.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color LightGray
+draw curve
+end while
+close \A    
+\A="data\LOCK1_601_989_f.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+
+set x format off
+set y format "%.0f"    
+draw axes 
+
+draw label "02105769" centered at 9.5 13.4 cm
+draw label "(a)" at 2.1 13.4 cm
+draw label "R$^2$ = 0.87" at 14.2 13.4 cm
+draw label "RMSE = 0.54 (m)" at 14.2 13.0 cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 5.8
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis 0 11 2 1
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\Burgaw_978_1194.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A      
+open \A
+while !..eof..
+read columns  x=1 y=3
+set color LightGray
+draw curve
+end while
+close \A  
+\A="data\Burgaw_978_1194_f.txt"   
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+
+set x format off
+set y format "%.0f"    
+draw axes 
+
+draw label "02108566" centered at 9.5 9.1 cm
+draw label "(b)" at 2.1 9.1 cm
+draw label "R$^2$ = 0.98" at 14.2 9.1 cm
+draw label "RMSE = 0.40 (m)" at 14.2 8.7 cm
+
+#########################################################################
+
+set x margin 2.0
+set y margin 1.5
+set x size 15
+set y size 3.7
+
+set x axis 0 720 48 24
+set y axis 0 15 2 1
+
+set x name ""
+set y name "Water level (m)"
+draw axes none
+
+\A="data\BlackRiver_605_1364_o1.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A      
+\A="data\BlackRiver_605_1364_o2.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color red
+draw curve
+end while
+close \A      
+\A="data\BlackRiver_605_1364.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color LightGray
+draw curve
+end while
+close \A    
+\A="data\BlackRiver_605_1364_f.txt" 
+open \A
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \A    
+
+open \line0
+while !..eof..
+read columns  x=1 y=2
+set color black
+draw curve
+end while
+close \line0    
+
+set color black
+                        
+set x format off
+set y format "%.0f"                      
+draw axes 
+
+draw label "9/8" at  -11 -2.0 #0-11
+draw label "9/10" at 32  -2.0  #48-16
+draw label "9/12" at 80  -2.0  #96-16
+draw label "9/14" at 128 -2.0  #144-16
+draw label "9/16" at 176 -2.0  #192-16
+draw label "9/18" at 224 -2.0  #240-16
+draw label "9/20" at 272 -2.0  #288-16
+draw label "9/22" at 320 -2.0  #336-16
+draw label "9/24" at 368 -2.0  #384-16
+draw label "9/26" at 416 -2.0  #432-16
+draw label "9/28" at 464 -2.0  #480-16
+draw label "9/30" at 512 -2.0  #528-16
+draw label "10/2" at 560 -2.0  #576-16
+draw label "10/4" at 608 -2.0  #624-16
+draw label "10/6" at 656 -2.0  #672-16
+draw label "10/8" at 704 -2.0  #720-16
+
+draw label "02106500" centered at 9.5 4.8 cm
+draw label "(c)" at 2.1 4.8 cm
+draw label "R$^2$ = 0.83" at 14.2 4.8 cm
+draw label "RMSE = 1.18 (m)" at 14.2 4.4 cm
+
+quit
+
+
