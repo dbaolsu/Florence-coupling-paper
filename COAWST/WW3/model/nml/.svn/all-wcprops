@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml
+END
+ww3_multi.nml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml/ww3_multi.nml
+END
+ww3_shel.nml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml/ww3_shel.nml
+END
+ww3_ounp.nml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml/ww3_ounp.nml
+END
+ww3_prnc.nml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml/ww3_prnc.nml
+END
+ww3_grid.nml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml/ww3_grid.nml
+END
+ww3_bounc.nml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml/ww3_bounc.nml
+END
+ww3_trnc.nml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml/ww3_trnc.nml
+END
+ww3_ounf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/nml/ww3_ounf.nml
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/coawstmodel/COAWST/!svn/ver/1389/Lib/MCT
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/configure
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/configure.ac
+END
+Makefile.conf_jcw
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/Makefile.conf_jcw
+END
+Makefile.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/Makefile.conf.in
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/COPYRIGHT
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/Makefile
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/install-sh
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/1471/Data/ROMS/CDL
+END
+ini_ecosim.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/ini_ecosim.cdl
+END
+s4dvar_std_b.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/s4dvar_std_b.cdl
+END
+clm_ts.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/clm_ts.cdl
+END
+s4dvar_std_f.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/s4dvar_std_f.cdl
+END
+ini_hydro.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/ini_hydro.cdl
+END
+s4dvar_std_i.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/s4dvar_std_i.cdl
+END
+frc_bulk.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/302/Data/ROMS/CDL/frc_bulk.cdl
+END
+frc_uvstress.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/302/Data/ROMS/CDL/frc_uvstress.cdl
+END
+frc_respiration.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1214/Data/ROMS/CDL/frc_respiration.cdl
+END
+s4dvar_std_m.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/s4dvar_std_m.cdl
+END
+bry_limit.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/bry_limit.cdl
+END
+adsen.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/adsen.cdl
+END
+nudgcoef.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/nudgcoef.cdl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/README
+END
+bry_unlimit.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/bry_unlimit.cdl
+END
+frc_tides.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/302/Data/ROMS/CDL/frc_tides.cdl
+END
+frc_rivers.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1198/Data/ROMS/CDL/frc_rivers.cdl
+END
+frc_fluxclm.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/302/Data/ROMS/CDL/frc_fluxclm.cdl
+END
+ini_fennel.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/ini_fennel.cdl
+END
+grd_spherical.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/grd_spherical.cdl
+END
+s4dvar_obs.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1471/Data/ROMS/CDL/s4dvar_obs.cdl
+END
+nesting.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/nesting.cdl
+END
+ini_sed.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/851/Data/ROMS/CDL/ini_sed.cdl
+END

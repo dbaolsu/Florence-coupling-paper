@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kmabufr
+END
+flist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kmabufr/flist
+END
+README.KMABUFR
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kmabufr/README.KMABUFR
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kmabufr/Makefile
+END
+read_bufr.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kmabufr/read_bufr.F
+END

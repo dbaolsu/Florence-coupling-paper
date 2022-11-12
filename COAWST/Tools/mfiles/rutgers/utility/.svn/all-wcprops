@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1484/Tools/mfiles/rutgers/utility
+END
+daynum360.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/daynum360.m
+END
+eos.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/eos.m
+END
+shapiro1.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/shapiro1.m
+END
+shapiro2.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/shapiro2.m
+END
+plot_perimeter.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/plot_perimeter.m
+END
+rotate_vec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/rotate_vec.m
+END
+caldate.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/caldate.m
+END
+tile.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/tile.m
+END
+yearday.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/yearday.m
+END
+pcolorjw.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/851/Tools/mfiles/rutgers/utility/pcolorjw.m
+END
+greg2str.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/greg2str.m
+END
+rfactor.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/rfactor.m
+END
+vector4stream.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/vector4stream.m
+END
+plot_nesting.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/plot_nesting.m
+END
+day_code.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/day_code.m
+END
+gcircle.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1484/Tools/mfiles/rutgers/utility/gcircle.m
+END
+wrt_colormap.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/wrt_colormap.m
+END
+nanland.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/nanland.m
+END
+dayvec.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/dayvec.m
+END
+tround.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/tround.m
+END
+gregorian.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/gregorian.m
+END
+uv_barotropic.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/uv_barotropic.m
+END
+plot_field.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/plot_field.m
+END
+hms2h.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/hms2h.m
+END
+roms_field.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/roms_field.m
+END
+roms_vectors.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/roms_vectors.m
+END
+wrt_latlon.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/wrt_latlon.m
+END
+sample_grid.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/sample_grid.m
+END
+roms_eos.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/roms_eos.m
+END
+depths.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/depths.m
+END
+scoord.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/scoord.m
+END
+hslope.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/hslope.m
+END
+s2hms.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/s2hms.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/Contents.m
+END
+daynum.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/daynum.m
+END
+ptiles.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/ptiles.m
+END
+untexlabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/untexlabel.m
+END
+dayvec360.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/dayvec360.m
+END
+fstats.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/fstats.m
+END
+geodesic_dist.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/geodesic_dist.m
+END
+uplow.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/uplow.m
+END
+smooth_bath.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/smooth_bath.m
+END
+stretching.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/stretching.m
+END
+rvorticity.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/rvorticity.m
+END
+set_depth.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/set_depth.m
+END
+date_stamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/date_stamp.m
+END
+julian.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/utility/julian.m
+END

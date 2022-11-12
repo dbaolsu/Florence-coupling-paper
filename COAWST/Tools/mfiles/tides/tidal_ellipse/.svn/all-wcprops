@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1329/Tools/mfiles/tides/tidal_ellipse
+END
+tanh_v5_2.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1329/Tools/mfiles/tides/tidal_ellipse/tanh_v5_2.m
+END
+cBEpm.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1329/Tools/mfiles/tides/tidal_ellipse/cBEpm.m
+END
+ap2ep.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1329/Tools/mfiles/tides/tidal_ellipse/ap2ep.m
+END
+ep2ap.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1329/Tools/mfiles/tides/tidal_ellipse/ep2ap.m
+END
+plot_ell.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1329/Tools/mfiles/tides/tidal_ellipse/plot_ell.m
+END
+example.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1329/Tools/mfiles/tides/tidal_ellipse/example.m
+END

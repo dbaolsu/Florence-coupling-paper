@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/coawstmodel/COAWST/!svn/ver/1476/WPS/arch
+END
+Config.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1476/WPS/arch/Config.pl
+END
+postamble
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/425/WPS/arch/postamble
+END
+configure.defaults
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1476/WPS/arch/configure.defaults
+END
+fixlinks
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/425/WPS/arch/fixlinks
+END
+preamble
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1476/WPS/arch/preamble
+END
+sourceme_windows.bash
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/425/WPS/arch/sourceme_windows.bash
+END
+sourceme_windows.csh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/425/WPS/arch/sourceme_windows.csh
+END
+zaplinks
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/425/WPS/arch/zaplinks
+END

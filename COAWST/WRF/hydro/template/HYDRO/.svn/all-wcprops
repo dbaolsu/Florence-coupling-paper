@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/template/HYDRO
+END
+HYDRO_MODIS.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/template/HYDRO/HYDRO_MODIS.TBL
+END
+hydro.namelist
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/template/HYDRO/hydro.namelist
+END
+HYDRO.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/template/HYDRO/HYDRO.TBL
+END
+CHANPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/template/HYDRO/CHANPARM.TBL
+END

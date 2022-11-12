@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/deprecated
+END
+build_install_theia.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/deprecated/build_install_theia.sh
+END
+README.build.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/deprecated/README.build.txt
+END
+build_install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/deprecated/build_install.sh
+END

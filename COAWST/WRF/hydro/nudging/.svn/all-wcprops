@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/nudging
+END
+module_stream_nudging.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/nudging/module_stream_nudging.F
+END
+module_date_utils_nudging.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/nudging/module_date_utils_nudging.F
+END
+module_nudging_utils.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/nudging/module_nudging_utils.F
+END
+module_nudging_io.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/nudging/module_nudging_io.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/nudging/Makefile
+END
+Nudging_frxst_gage.csv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/nudging/Nudging_frxst_gage.csv
+END

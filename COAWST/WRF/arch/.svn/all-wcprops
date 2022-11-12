@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/coawstmodel/COAWST/!svn/ver/1477/WRF/arch
+END
+Config.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1417/WRF/arch/Config.pl
+END
+noopt_exceptions
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1207/WRF/arch/noopt_exceptions
+END
+cray_csd.sed
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/185/WRF/arch/cray_csd.sed
+END
+README.canonical_stanza
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/185/WRF/arch/README.canonical_stanza
+END
+noopt_exceptions_f
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1207/WRF/arch/noopt_exceptions_f
+END
+SOURCEME_WINCCS_WRF
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/185/WRF/arch/SOURCEME_WINCCS_WRF
+END
+md_calls.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1207/WRF/arch/md_calls.inc
+END
+postamble
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1477/WRF/arch/postamble
+END
+configure.defaults
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1361/WRF/arch/configure.defaults
+END
+preamble
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1361/WRF/arch/preamble
+END
+conf_tokens
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/185/WRF/arch/conf_tokens
+END
+standard.sed
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/185/WRF/arch/standard.sed
+END
+no_file_line.sed
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/185/WRF/arch/no_file_line.sed
+END
+win_mpif.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1328/WRF/arch/win_mpif.h
+END

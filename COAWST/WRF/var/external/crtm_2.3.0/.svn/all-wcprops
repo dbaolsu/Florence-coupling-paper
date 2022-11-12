@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0
+END
+crtm_release_notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/crtm_release_notes.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/makefile
+END

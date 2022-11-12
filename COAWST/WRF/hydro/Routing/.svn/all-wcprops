@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1419/WRF/hydro/Routing
+END
+module_UDMAP.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/module_UDMAP.F
+END
+module_noah_chan_param_init_rt.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1207/WRF/hydro/Routing/module_noah_chan_param_init_rt.F
+END
+module_NWM_io.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/Routing/module_NWM_io.F
+END
+module_NWM_io_dict.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/Routing/module_NWM_io_dict.F
+END
+Noah_distr_routing.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/Noah_distr_routing.F
+END
+module_HYDRO_io.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/module_HYDRO_io.F
+END
+module_date_utilities_rt.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/module_date_utilities_rt.F
+END
+module_GW_baseflow.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/module_GW_baseflow.F
+END
+module_channel_routing.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/module_channel_routing.F
+END
+module_gw_gw2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1213/WRF/hydro/Routing/module_gw_gw2d.F
+END
+module_lsm_forcing.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/module_lsm_forcing.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/Makefile
+END
+module_HYDRO_utils.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1207/WRF/hydro/Routing/module_HYDRO_utils.F
+END
+module_RT.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/Routing/module_RT.F
+END

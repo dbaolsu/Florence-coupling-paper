@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/Makefile
+END
+create_forcing.F
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/create_forcing.F
+END

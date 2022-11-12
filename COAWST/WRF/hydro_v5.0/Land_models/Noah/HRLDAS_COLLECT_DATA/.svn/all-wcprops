@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA
+END
+consolidate_grib.F
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/consolidate_grib.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/Makefile
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1453/InWave/Boundaries
+END
+cx3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1116/InWave/Boundaries/cx3dbc_im.F
+END
+cy3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1116/InWave/Boundaries/cy3dbc_im.F
+END
+bndwavebc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1453/InWave/Boundaries/bndwavebc_im.F
+END
+AC3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1320/InWave/Boundaries/AC3dbc_im.F
+END
+ct3dbc_dir_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1116/InWave/Boundaries/ct3dbc_dir_im.F
+END
+kwc3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1439/InWave/Boundaries/kwc3dbc_im.F
+END
+Tr3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1261/InWave/Boundaries/Tr3dbc_im.F
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/523/InWave/Boundaries/Module.mk
+END
+ct3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1116/InWave/Boundaries/ct3dbc_im.F
+END

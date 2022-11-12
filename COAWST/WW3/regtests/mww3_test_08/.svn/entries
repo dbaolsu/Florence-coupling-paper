@@ -1,0 +1,83 @@
+10
+
+dir
+1486
+https://coawstmodel.sourcerepo.com/coawstmodel/COAWST/WW3/regtests/mww3_test_08
+https://coawstmodel.sourcerepo.com/coawstmodel/COAWST
+
+
+
+2019-07-26T02:52:30.929546Z
+1410
+jcwarner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48cfb302-6b48-4dc2-989a-fd0c5d807893
+
+input
+dir
+
+i_highres_shel_IC1
+dir
+
+i_lowres_shel_IC1
+dir
+
+i_highres_multi
+dir
+
+info
+file
+
+
+
+
+2020-07-06T20:04:21.000000Z
+443b1df7e5d632a2760ab213d8f58bd6
+2019-07-26T02:52:30.929546Z
+1410
+jcwarner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3199
+
+i_highres_shel
+dir
+
+i_lowres_multi
+dir
+
+i_lowres_shel
+dir
+

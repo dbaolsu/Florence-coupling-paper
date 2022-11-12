@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_grav2d_x
+END
+input_sounding.um=0
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_grav2d_x/input_sounding.um=0
+END
+input_sounding.um=20
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_grav2d_x/input_sounding.um=20
+END
+input_sounding
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_grav2d_x/input_sounding
+END
+namelist.input.100m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_grav2d_x/namelist.input.100m
+END
+namelist.input.200m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_grav2d_x/namelist.input.200m
+END
+README.grav2d_x
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_grav2d_x/README.grav2d_x
+END
+namelist.input.400m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_grav2d_x/namelist.input.400m
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_grav2d_x/namelist.input
+END

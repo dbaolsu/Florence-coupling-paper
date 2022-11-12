@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL
+END
+ww3_shel.inp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_shel.inp
+END
+ww3_shel.nml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_shel.nml
+END
+ww3_strt.inp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_strt.inp
+END
+namelists_CGICE_CHENG.nml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/namelists_CGICE_CHENG.nml
+END
+ww3_outp_spec.inp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_outp_spec.inp
+END
+points.list
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/points.list
+END
+ww3_grid_CGOW_NOCHENG.nml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_grid_CGOW_NOCHENG.nml
+END
+ww3_grid_CGOW_NOCHENG.inp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_grid_CGOW_NOCHENG.inp
+END
+ww3_grid_CGOW_CHENG.nml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_grid_CGOW_CHENG.nml
+END
+ww3_grid_CGOW_CHENG.inp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_grid_CGOW_CHENG.inp
+END
+switch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/switch
+END
+ww3_outf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_outf.inp
+END
+namelists_CGOW_NOCHENG.nml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/namelists_CGOW_NOCHENG.nml
+END
+switch_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/switch_MPI
+END
+ww3_outp_tab50.inp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_outp_tab50.inp
+END
+namelists_CGOW_CHENG.nml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/namelists_CGOW_CHENG.nml
+END
+ww3_outp_tab51.inp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_outp_tab51.inp
+END
+ww3_grid_CGICE_CHENG.nml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_grid_CGICE_CHENG.nml
+END
+ww3_grid_CGICE_CHENG.inp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_grid_CGICE_CHENG.inp
+END
+ww3_prep_icecon.inp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC3NL/ww3_prep_icecon.inp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/radiance
+END
+radiance_info
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/radiance/radiance_info
+END
+crtm_coeffs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/radiance/crtm_coeffs
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/radiance/namelist.input
+END

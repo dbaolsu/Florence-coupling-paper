@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1483/Lib/SCRIP_COAWST
+END
+create_fullgrid.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1151/Lib/SCRIP_COAWST/create_fullgrid.f
+END
+scrip_coawst_joetc_diffgrid.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/scrip_coawst_joetc_diffgrid.in
+END
+netcdf.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1151/Lib/SCRIP_COAWST/netcdf.f
+END
+timers.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/timers.f
+END
+scrip_coawst_inlet_test_refined.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/scrip_coawst_inlet_test_refined.in
+END
+scrip_coawst_inlet_test_diffgrid.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/scrip_coawst_inlet_test_diffgrid.in
+END
+remap_bilinear.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/remap_bilinear.f
+END
+scripwrap_mod.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/scripwrap_mod.f
+END
+read_roms.f
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1200/Lib/SCRIP_COAWST/read_roms.f
+END
+read_ww3.f
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1214/Lib/SCRIP_COAWST/read_ww3.f
+END
+constants.f
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1151/Lib/SCRIP_COAWST/constants.f
+END
+remap_write.f
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/remap_write.f
+END
+scrip_test_repeat.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/scrip_test_repeat.f
+END
+scrip_test.f
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/scrip_test.f
+END
+scrip_coawst_sandy.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/scrip_coawst_sandy.in
+END
+read_hydro.f
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1481/Lib/SCRIP_COAWST/read_hydro.f
+END
+remap_bicubic.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1157/Lib/SCRIP_COAWST/remap_bicubic.f
+END
+read_wrf.f
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1458/Lib/SCRIP_COAWST/read_wrf.f
+END
+scrip_coawst_florence.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1481/Lib/SCRIP_COAWST/scrip_coawst_florence.in
+END
+remap_vars.f
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/remap_vars.f
+END
+remap_read.f
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/remap_read.f
+END
+scrip_coawst.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/scrip_coawst.f
+END
+create_masks.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/create_masks.f
+END
+remap_conserv.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1483/Lib/SCRIP_COAWST/remap_conserv.f
+END
+read_swan.f
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1200/Lib/SCRIP_COAWST/read_swan.f
+END
+remap.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/remap.f
+END
+kinds_mod.f
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/kinds_mod.f
+END
+grids.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/grids.f
+END
+remap_distwgt.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1157/Lib/SCRIP_COAWST/remap_distwgt.f
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1200/Lib/SCRIP_COAWST/README
+END
+scrip_coawst_template.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1472/Lib/SCRIP_COAWST/scrip_coawst_template.in
+END
+scrip.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1458/Lib/SCRIP_COAWST/scrip.f
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1483/Lib/SCRIP_COAWST/makefile
+END
+iounits.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1156/Lib/SCRIP_COAWST/iounits.f
+END

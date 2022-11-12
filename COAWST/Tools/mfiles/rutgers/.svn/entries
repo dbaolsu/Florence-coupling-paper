@@ -1,0 +1,70 @@
+10
+
+dir
+1486
+https://coawstmodel.sourcerepo.com/coawstmodel/COAWST/Tools/mfiles/rutgers
+https://coawstmodel.sourcerepo.com/coawstmodel/COAWST
+
+
+
+2020-05-10T22:13:31.764180Z
+1484
+jcwarner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48cfb302-6b48-4dc2-989a-fd0c5d807893
+
+colormaps
+dir
+
+4dvar
+dir
+
+coupling
+dir
+
+boundary
+dir
+
+netcdf
+dir
+
+utility
+dir
+
+coastlines
+dir
+
+grid
+dir
+
+forcing
+dir
+
+bathymetry
+dir
+
+bin
+dir
+
+initial
+dir
+
+landmask
+dir
+
+seawater
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_routines
+END
+module_date_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_routines/module_date_utilities.F
+END
+kwm_string_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_routines/kwm_string_utilities.F
+END
+module_model_constants.F
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_routines/module_model_constants.F
+END
+module_sfcdif_wrf.F
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_routines/module_sfcdif_wrf.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_routines/Makefile
+END
+module_Noahlsm_utility.F
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_routines/module_Noahlsm_utility.F
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/coawstmodel/COAWST/!svn/ver/1481/Master
+END
+master.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/1472/Master/master.F
+END
+inwave.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/180/Master/inwave.h
+END
+mct_coupler_utils.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/843/Master/mct_coupler_utils.F
+END
+read_coawst_par.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1472/Master/read_coawst_par.F
+END
+read_model_inputs.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1472/Master/read_model_inputs.F
+END
+mct_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1472/Master/mct_driver.h
+END
+mct_roms_wrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1472/Master/mct_roms_wrf.h
+END
+mct_roms_refdif.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/405/Master/mct_roms_refdif.h
+END
+get_wrf_moving_grids.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1462/Master/get_wrf_moving_grids.F
+END
+esmf_driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1472/Master/esmf_driver.h
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1472/Master/Module.mk
+END
+coupler.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1472/Master/coupler.F
+END
+roms_import.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1472/Master/roms_import.F
+END
+mct_roms_swan.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1472/Master/mct_roms_swan.h
+END
+ocean_coupler.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1472/Master/ocean_coupler.F
+END
+propagator.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1472/Master/propagator.F
+END
+get_numswan_grids.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1251/Master/get_numswan_grids.F
+END
+get_sparse_matrix.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1472/Master/get_sparse_matrix.F
+END
+roms_export.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1472/Master/roms_export.F
+END
+mod_coupler_iounits.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1472/Master/mod_coupler_iounits.F
+END
+mct_roms_ww3.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1251/Master/mct_roms_ww3.h
+END
+ocean_control.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1472/Master/ocean_control.F
+END
+ocean.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/1472/Master/ocean.h
+END
+waves.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/1251/Master/waves.h
+END
+mct_roms_hydro.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1481/Master/mct_roms_hydro.h
+END
+esmf_roms.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1472/Master/esmf_roms.F
+END
+ww3_iounits.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1214/Master/ww3_iounits.F
+END

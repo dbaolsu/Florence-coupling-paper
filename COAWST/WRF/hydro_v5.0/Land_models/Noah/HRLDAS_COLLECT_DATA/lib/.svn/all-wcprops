@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib
+END
+module_llxy.F
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_llxy.F
+END
+kwm_grid_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/kwm_grid_utilities.F
+END
+module_mapinfo.F
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_mapinfo.F
+END
+swap4c.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/swap4c.c
+END
+module_geo_em.F
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_geo_em.F
+END
+kwm_timing_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/kwm_timing_utilities.F
+END
+module_grib_common.F
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_grib_common.F
+END
+get_unused_unit.F
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/get_unused_unit.F
+END
+trig_degrees.F
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/trig_degrees.F
+END
+module_grib2_tables.F
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_grib2_tables.F
+END
+swap4f.F
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/swap4f.F
+END
+cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/cio.c
+END
+module_grib1.F
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_grib1.F
+END
+io_f.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/io_f.c
+END
+gbytesys.F
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/gbytesys.F
+END
+module_grib2.F
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_grib2.F
+END
+arguments_module.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/arguments_module.F
+END
+module_input_data_structure.F
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_input_data_structure.F
+END
+kwm_string_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/kwm_string_utilities.F
+END
+module_wrfinputfile.F
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_wrfinputfile.F
+END
+kwm_date_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/kwm_date_utilities.F
+END
+decode_jpeg2000.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/decode_jpeg2000.c
+END
+module_grib.F
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/module_grib.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/lib/Makefile
+END

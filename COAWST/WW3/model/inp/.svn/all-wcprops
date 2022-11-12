@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp
+END
+ww3_multi.inp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_multi.inp
+END
+ww3_shel.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_shel.inp
+END
+ww3_strt.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_strt.inp
+END
+ww3_systrk.inp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_systrk.inp
+END
+ww3_uprstr.inp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_uprstr.inp
+END
+ww3_gint.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_gint.inp
+END
+ww3_prnc.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_prnc.inp
+END
+ww3_trck.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_trck.inp
+END
+ww3_gspl.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_gspl.inp
+END
+ww3_prep.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_prep.inp
+END
+ww3_bounc.inp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_bounc.inp
+END
+track_i.ww3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/track_i.ww3
+END
+ww3_trnc.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_trnc.inp
+END
+ww3_ounf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_ounf.inp
+END
+ww3_bound.inp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_bound.inp
+END
+gx_outf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/gx_outf.inp
+END
+ww3_outf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_outf.inp
+END
+ww3_ounp.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_ounp.inp
+END
+ww3_grib.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_grib.inp
+END
+ww3_grid.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_grid.inp
+END
+gx_outp.inp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/gx_outp.inp
+END
+ww3_outp.inp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_outp.inp
+END
+ww3_prtide.inp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/inp/ww3_prtide.inp
+END

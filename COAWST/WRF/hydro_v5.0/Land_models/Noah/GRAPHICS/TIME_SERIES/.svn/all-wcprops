@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES
+END
+namelist.pltts
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/namelist.pltts
+END
+namelist.pltts.sample
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/namelist.pltts.sample
+END
+kwm_string_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/kwm_string_utilities.F
+END
+module_ptdata.F
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/module_ptdata.F
+END
+lccone.F
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/lccone.F
+END
+ldasout_timeseries.F
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/ldasout_timeseries.F
+END
+llxy_generic.F
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/llxy_generic.F
+END
+kwm_date_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/kwm_date_utilities.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/Makefile
+END
+module_plotts_graphics.F
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/GRAPHICS/TIME_SERIES/module_plotts_graphics.F
+END

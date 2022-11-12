@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1434/Tools/mfiles/inwave_tools
+END
+jonswap_lip.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1213/Tools/mfiles/inwave_tools/jonswap_lip.m
+END
+plot_bound_wave.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/plot_bound_wave.m
+END
+specchar.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/specchar.m
+END
+create_InWave_bry.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1205/Tools/mfiles/inwave_tools/create_InWave_bry.m
+END
+InWave_shoreface_param.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1155/Tools/mfiles/inwave_tools/InWave_shoreface_param.m
+END
+Bound_wave.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/Bound_wave.m
+END
+groupchar.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/groupchar.m
+END
+freq_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/freq_test.m
+END
+InWave_inlet_test_param.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/InWave_inlet_test_param.m
+END
+offbreach_2012103100.spc2d
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/offbreach_2012103100.spc2d
+END
+read_swan_spc.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/read_swan_spc.m
+END
+create_InWave_grd.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1434/Tools/mfiles/inwave_tools/create_InWave_grd.m
+END
+master_InWave_create_files.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1205/Tools/mfiles/inwave_tools/master_InWave_create_files.m
+END
+create_InWave_ini.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1155/Tools/mfiles/inwave_tools/create_InWave_ini.m
+END
+InWave_lip_param.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1261/Tools/mfiles/inwave_tools/InWave_lip_param.m
+END
+waven.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1279/Tools/mfiles/inwave_tools/waven.m
+END

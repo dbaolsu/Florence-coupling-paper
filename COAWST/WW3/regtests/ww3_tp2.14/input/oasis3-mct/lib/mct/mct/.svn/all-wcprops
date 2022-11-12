@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct
+END
+mct_mod.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/mct_mod.F90
+END
+m_SpatialIntegralV.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_SpatialIntegralV.F90
+END
+m_SparseMatrixDecomp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_SparseMatrixDecomp.F90
+END
+m_MatAttrVectMul.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_MatAttrVectMul.F90
+END
+m_AccumulatorComms.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_AccumulatorComms.F90
+END
+m_GlobalToLocal.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_GlobalToLocal.F90
+END
+m_Accumulator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_Accumulator.F90
+END
+m_SparseMatrixComms.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_SparseMatrixComms.F90
+END
+m_GeneralGridComms.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_GeneralGridComms.F90
+END
+m_GeneralGrid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_GeneralGrid.F90
+END
+m_Transfer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_Transfer.F90
+END
+m_AttrVectReduce.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_AttrVectReduce.F90
+END
+m_Navigator.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_Navigator.F90
+END
+m_MCTWorld.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_MCTWorld.F90
+END
+m_AttrVect.F90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_AttrVect.F90
+END
+m_Merge.F90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_Merge.F90
+END
+m_ConvertMaps.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_ConvertMaps.F90
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/Makefile
+END
+m_SparseMatrixToMaps.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_SparseMatrixToMaps.F90
+END
+m_Router.F90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_Router.F90
+END
+m_SparseMatrix.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_SparseMatrix.F90
+END
+m_SpatialIntegral.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_SpatialIntegral.F90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/README
+END
+m_SparseMatrixPlus.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_SparseMatrixPlus.F90
+END
+m_Rearranger.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_Rearranger.F90
+END
+m_AttrVectComms.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_AttrVectComms.F90
+END
+m_GlobalSegMapComms.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_GlobalSegMapComms.F90
+END
+m_GlobalSegMap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_GlobalSegMap.F90
+END
+m_GlobalMap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_GlobalMap.F90
+END
+m_ExchangeMaps.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mct/m_ExchangeMaps.F90
+END

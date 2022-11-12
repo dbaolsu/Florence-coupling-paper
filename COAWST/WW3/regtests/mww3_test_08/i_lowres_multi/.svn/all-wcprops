@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi
+END
+namelists_lowres.nml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/namelists_lowres.nml
+END
+ww3_strt.inp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_strt.inp
+END
+lowres.obst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/lowres.obst
+END
+points.list
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/points.list
+END
+ww3_multi_grdset_a.nml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_multi_grdset_a.nml
+END
+ww3_multi_grdset_a.inp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_multi_grdset_a.inp
+END
+grdset_a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/grdset_a
+END
+ww3_ounf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_ounf.nml
+END
+ww3_ounf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_ounf.inp
+END
+switch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/switch
+END
+ww3_outf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_outf.inp
+END
+ww3_grid_lowres.nml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_grid_lowres.nml
+END
+ww3_grid_lowres.inp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_grid_lowres.inp
+END
+ww3_prep_ice.inp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_prep_ice.inp
+END
+ww3_prep_wind.inp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/ww3_prep_wind.inp
+END
+lowres.depth
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_lowres_multi/lowres.depth
+END

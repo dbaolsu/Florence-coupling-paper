@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup
+END
+g95.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/g95.setup.csh
+END
+gfortran.setup
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/gfortran.setup
+END
+gfortran-debug.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/gfortran-debug.setup.csh
+END
+xlf2003-debug.setup
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/xlf2003-debug.setup
+END
+ifort.setup
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/ifort.setup
+END
+ifort-debug.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/ifort-debug.setup.csh
+END
+ftn.setup
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/ftn.setup
+END
+pgf95.setup
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/pgf95.setup
+END
+pgf95-debug.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/pgf95-debug.setup.csh
+END
+gfortran.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/gfortran.setup.csh
+END
+xlf2003-debug.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/xlf2003-debug.setup.csh
+END
+xlf2003.setup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/xlf2003.setup
+END
+ifort.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/ifort.setup.csh
+END
+ftn.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/ftn.setup.csh
+END
+g95-debug.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/g95-debug.setup.csh
+END
+pgf95.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/pgf95.setup.csh
+END
+gfortran-debug.setup
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/gfortran-debug.setup
+END
+ifort-debug.setup
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/ifort-debug.setup
+END
+xlf2003.setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/xlf2003.setup.csh
+END
+pgf95-debug.setup
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1418/WRF/var/external/crtm_2.3.0/config-setup/pgf95-debug.setup
+END

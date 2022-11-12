@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1417/WRF/test/em_real
+END
+namelist.input.ndown_2
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.ndown_2
+END
+namelist.input.ndown_3
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.ndown_3
+END
+namelist.input.jan00
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.jan00
+END
+namelist.input.chem
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.chem
+END
+wind-turbine-1.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/842/WRF/test/em_real/wind-turbine-1.tbl
+END
+examples.namelist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1417/WRF/test/em_real/examples.namelist
+END
+run_1way.tar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_real/run_1way.tar
+END
+run_2way.tar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_real/run_2way.tar
+END
+windturbines.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/842/WRF/test/em_real/windturbines.txt
+END
+README.obs_fdda
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_real/README.obs_fdda
+END
+run_restart.tar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_real/run_restart.tar
+END
+namelist.input.fire
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.fire
+END
+README.grid_fdda
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_real/README.grid_fdda
+END
+sample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/834/WRF/test/em_real/sample.txt
+END
+namelist.input.diags
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.diags
+END
+landFilenames
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/424/WRF/test/em_real/landFilenames
+END
+namelist.input.4km
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.4km
+END
+namelist.input.jun01
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.jun01
+END
+namelist.input.pbl-les
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1364/WRF/test/em_real/namelist.input.pbl-les
+END
+namelist.input.global
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.global
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1417/WRF/test/em_real/namelist.input
+END
+namelist.input.volc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.volc
+END
+namelist.input.ndown_1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_real/namelist.input.ndown_1
+END

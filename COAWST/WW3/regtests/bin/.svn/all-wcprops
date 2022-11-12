@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1480/WW3/regtests/bin
+END
+comp_switch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/comp_switch
+END
+matrix.comp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/matrix.comp
+END
+matrix_zeus_HLT
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/matrix_zeus_HLT
+END
+matrix.base.v1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/matrix.base.v1
+END
+run_test
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/run_test
+END
+run_clean
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/run_clean
+END
+run_esmf_test_suite
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/run_esmf_test_suite
+END
+cleanup
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/cleanup
+END
+matrix_ncep
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/matrix_ncep
+END
+matrix.base
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/matrix.base
+END
+matrix_datarmor
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/bin/matrix_datarmor
+END

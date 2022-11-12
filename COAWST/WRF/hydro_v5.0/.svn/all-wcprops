@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/configure
+END
+.version
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/.version
+END
+macros
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/macros
+END
+hrldas_namelists.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/hrldas_namelists.json
+END
+compile_offline_NoahMP.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/compile_offline_NoahMP.sh
+END
+Makefile.comm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Makefile.comm
+END
+wrf_hydro_config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/wrf_hydro_config
+END
+compile_offline_Noah.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/compile_offline_Noah.sh
+END
+README.build.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/README.build.txt
+END
+compile_options.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/compile_options.json
+END
+hydro_namelists.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/hydro_namelists.json
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Makefile
+END

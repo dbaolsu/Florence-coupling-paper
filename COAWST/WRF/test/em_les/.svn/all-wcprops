@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_les
+END
+README.les
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1072/WRF/test/em_les/README.les
+END
+input_sounding_shalconv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1078/WRF/test/em_les/input_sounding_shalconv
+END
+namelist.input.SGP
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_les/namelist.input.SGP
+END
+input_sounding
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_les/input_sounding
+END
+input_sounding_free
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_les/input_sounding_free
+END
+input_sounding_meanwind
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_les/input_sounding_meanwind
+END
+namelist.input_shalconv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_les/namelist.input_shalconv
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_les/namelist.input
+END
+input_sounding.SGP
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_les/input_sounding.SGP
+END

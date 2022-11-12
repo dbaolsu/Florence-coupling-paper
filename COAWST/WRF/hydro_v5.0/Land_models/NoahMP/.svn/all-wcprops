@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/version
+END
+user_build_options
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/user_build_options
+END
+MPP
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/MPP
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/README
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/coawstmodel/COAWST/!svn/ver/1416/WRF/var/run
+END
+gmao_airs_bufr.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/run/gmao_airs_bufr.tbl
+END
+VARBC.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/run/VARBC.in
+END
+fso.io_config
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/run/fso.io_config
+END
+OBSERROR_GPSEPH.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/run/OBSERROR_GPSEPH.TBL
+END
+leapsec.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/run/leapsec.dat
+END
+be.dat.cv3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/run/be.dat.cv3
+END
+crtm_coeffs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/run/crtm_coeffs
+END
+ahi_info
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1416/WRF/var/run/ahi_info
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/run/README
+END
+plus.io_config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/run/plus.io_config
+END

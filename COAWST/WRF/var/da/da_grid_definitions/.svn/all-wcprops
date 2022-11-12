@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_grid_definitions
+END
+da_ref_height.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_grid_definitions/da_ref_height.inc
+END
+da_earth_2_model_wind.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_grid_definitions/da_earth_2_model_wind.inc
+END
+da_grid_definitions.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_grid_definitions/da_grid_definitions.f90
+END
+da_ref_pres.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_grid_definitions/da_ref_pres.inc
+END
+da_ffdduv_diagnose.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_grid_definitions/da_ffdduv_diagnose.inc
+END
+da_ffdduv.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_grid_definitions/da_ffdduv.inc
+END
+da_ffdduv_model.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_grid_definitions/da_ffdduv_model.inc
+END

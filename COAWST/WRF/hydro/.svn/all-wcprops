@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/coawstmodel/COAWST/!svn/ver/1480/WRF/hydro
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/configure
+END
+.version
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/.version
+END
+wrf_hydro_config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/wrf_hydro_config
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1415/WRF/hydro/Makefile
+END

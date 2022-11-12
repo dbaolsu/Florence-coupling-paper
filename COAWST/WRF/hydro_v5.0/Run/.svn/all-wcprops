@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Run
+END
+hydro.namelist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Run/hydro.namelist
+END
+MPTABLE.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Run/MPTABLE.TBL
+END
+HYDRO.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Run/HYDRO.TBL
+END
+SOILPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Run/SOILPARM.TBL
+END
+namelist.hrldas
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Run/namelist.hrldas
+END
+CHANPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Run/CHANPARM.TBL
+END
+GENPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Run/GENPARM.TBL
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST
+END
+ww3_shel.nml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_shel.nml
+END
+ww3_shel.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_shel.inp
+END
+ww3_strt.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_strt.inp
+END
+1-D.depth
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/1-D.depth
+END
+namelists_1-D.nml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/namelists_1-D.nml
+END
+points.list
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/points.list
+END
+ww3_ounf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_ounf.nml
+END
+ww3_ounf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_ounf.inp
+END
+switch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/switch
+END
+ww3_outf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_outf.inp
+END
+ww3_ounp.nml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_ounp.nml
+END
+ww3_ounp.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_ounp.inp
+END
+ww3_grid.nml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_grid.nml
+END
+ww3_grid.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_grid.inp
+END
+ww3_outp.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.7/input_OBST/ww3_outp.inp
+END

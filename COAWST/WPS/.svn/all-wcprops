@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/coawstmodel/COAWST/!svn/ver/1476/WPS
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/1476/WPS/configure
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/coawstmodel/COAWST/!svn/ver/1206/WPS/clean
+END
+namelist.wps.global
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1327/WPS/namelist.wps.global
+END
+namelist.wps
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1327/WPS/namelist.wps
+END
+namelist.wps.all_options
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1327/WPS/namelist.wps.all_options
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/coawstmodel/COAWST/!svn/ver/1476/WPS/compile
+END
+namelist.wps.fire
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1327/WPS/namelist.wps.fire
+END
+namelist.wps.nmm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1327/WPS/namelist.wps.nmm
+END
+link_grib.csh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1075/WPS/link_grib.csh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/coawstmodel/COAWST/!svn/ver/1476/WPS/README
+END

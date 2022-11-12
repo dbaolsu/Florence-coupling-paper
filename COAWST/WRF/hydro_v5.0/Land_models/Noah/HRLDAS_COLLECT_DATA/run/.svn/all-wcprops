@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/run
+END
+README.namelist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/run/README.namelist
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/run/namelist.input
+END
+namelist.example.complex
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/run/namelist.example.complex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/run/Makefile
+END
+namelist.example.simple
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/run/namelist.example.simple
+END

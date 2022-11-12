@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist
+END
+raypg.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/raypg.f90
+END
+maketransect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/maketransect.pro
+END
+raypfc.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/raypfc.f90
+END
+visu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/visu.pro
+END
+xloadpalette.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/xloadpalette.pro
+END
+julday.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/julday.pro
+END
+mapping.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/mapping.pro
+END
+raytracer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/raytracer.pro
+END
+palette.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/palette.pro
+END
+make_visu_package.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/make_visu_package.pro
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/README
+END
+rt_visumain.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/rt_visumain.pro
+END
+make_visu_tar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/make_visu_tar.sh
+END
+raypg_rayleigh.f90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/raypg_rayleigh.f90
+END
+read_timeseries.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/read_timeseries.pro
+END
+gridbuild.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/gridbuild.pro
+END
+bathytool.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/bathytool.pro
+END
+initmain.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/initmain.pro
+END
+rayp.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/rayp.f90
+END
+editspecials.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/editspecials.pro
+END
+TWIST_init.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/TWIST_init.txt
+END
+parametros.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/parametros.pro
+END
+raypf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/idl_twist/raypf.f90
+END

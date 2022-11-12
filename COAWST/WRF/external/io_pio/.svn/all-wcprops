@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/io_pio
+END
+wrf_io.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1207/WRF/external/io_pio/wrf_io.F90
+END
+module_wrfsi_static.F90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1077/WRF/external/io_pio/module_wrfsi_static.F90
+END
+field_routines.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1207/WRF/external/io_pio/field_routines.F90
+END
+wrf_data_pio.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1207/WRF/external/io_pio/wrf_data_pio.F90
+END
+pio_routines.F90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1207/WRF/external/io_pio/pio_routines.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/io_pio/Makefile
+END
+read_bdy_routines.F90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1207/WRF/external/io_pio/read_bdy_routines.F90
+END

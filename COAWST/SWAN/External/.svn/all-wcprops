@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/coawstmodel/COAWST/!svn/ver/433/SWAN/External
+END
+swan.edt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/433/SWAN/External/swan.edt
+END
+test_head_curv_grid_coord.grd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1/SWAN/External/test_head_curv_grid_coord.grd
+END
+test_head_curv_bathy.bot
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1/SWAN/External/test_head_curv_bathy.bot
+END
+swan_test_head.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1/SWAN/External/swan_test_head.in
+END

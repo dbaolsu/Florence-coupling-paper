@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1417/WRF/chem/KPP/kpp/kpp-2.1
+END
+kpp_compile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/kpp/kpp-2.1/kpp_compile
+END
+cflags.guess
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/kpp/kpp-2.1/cflags.guess
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/kpp/kpp-2.1/Makefile
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/kpp/kpp-2.1/readme
+END

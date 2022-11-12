@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf
+END
+esm.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/esm.F90
+END
+switch
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/switch
+END
+utl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/utl.F90
+END
+dum.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/dum.F90
+END
+esmApp.F90
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/esmApp.F90
+END
+mdl.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/mdl.F90
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/macros.h
+END
+con.F90
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/con.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/esmf/README
+END

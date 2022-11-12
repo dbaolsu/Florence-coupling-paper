@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/coawstmodel/COAWST/!svn/ver/1417/WRF/wrftladj
+END
+module_microphysics_driver_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_microphysics_driver_tl.F
+END
+module_bc_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bc_ad.F
+END
+module_first_rk_step_part1_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_first_rk_step_part1_ad.F
+END
+module_microphysics_driver_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_microphysics_driver_ad.F
+END
+module_cu_du.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_cu_du.F
+END
+module_mp_nconvp.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_mp_nconvp.F
+END
+module_em_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_em_tl.F
+END
+module_microphysics_zero_out_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_microphysics_zero_out_tl.F
+END
+module_physics_init_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1417/WRF/wrftladj/module_physics_init_tl.F
+END
+module_em_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_em_ad.F
+END
+module_microphysics_zero_out_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_microphysics_zero_out_ad.F
+END
+module_cumulus_driver_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_cumulus_driver_tl.F
+END
+module_big_step_utilities_em_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_big_step_utilities_em_tl.F
+END
+start_em_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1417/WRF/wrftladj/start_em_tl.F
+END
+adBuffer.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/adBuffer.F
+END
+module_physics_init_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1417/WRF/wrftladj/module_physics_init_ad.F
+END
+jcdfi.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/jcdfi.F
+END
+module_cumulus_driver_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_cumulus_driver_ad.F
+END
+module_big_step_utilities_em_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_big_step_utilities_em_ad.F
+END
+start_em_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1417/WRF/wrftladj/start_em_ad.F
+END
+module_mp_mkessler_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_mp_mkessler_tl.F
+END
+depend.wrftladj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/depend.wrftladj
+END
+module_linked_list2.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_linked_list2.F
+END
+module_small_step_em_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_small_step_em_tl.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/Makefile
+END
+mediation_pertmod_io.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/mediation_pertmod_io.F
+END
+module_first_rk_step_part2_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1417/WRF/wrftladj/module_first_rk_step_part2_tl.F
+END
+module_mp_mkessler_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_mp_mkessler_ad.F
+END
+module_advect_em_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_advect_em_tl.F
+END
+module_pbl_driver_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_pbl_driver_tl.F
+END
+module_small_step_em_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_small_step_em_ad.F
+END
+module_first_rk_step_part2_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_first_rk_step_part2_ad.F
+END
+module_advect_em_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_advect_em_ad.F
+END
+module_pbl_driver_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_pbl_driver_ad.F
+END
+module_cu_du_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_cu_du_tl.F
+END
+module_mp_nconvp_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_mp_nconvp_tl.F
+END
+module_bl_surface_drag_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bl_surface_drag_tl.F
+END
+module_bl_surface_drag.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bl_surface_drag.F
+END
+adStack.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/adStack.c
+END
+module_cu_du_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_cu_du_ad.F
+END
+module_mp_nconvp_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_mp_nconvp_ad.F
+END
+solve_em_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/solve_em_tl.F
+END
+module_bc_em_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bc_em_tl.F
+END
+start_domain_em_tl.int
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/start_domain_em_tl.int
+END
+module_sfs_driver_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_sfs_driver_tl.F
+END
+module_diffusion_em_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_diffusion_em_tl.F
+END
+module_bl_surface_drag_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bl_surface_drag_ad.F
+END
+module_physics_addtendc_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_physics_addtendc_tl.F
+END
+solve_em_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/solve_em_ad.F
+END
+module_bc_em_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bc_em_ad.F
+END
+start_domain_em_ad.int
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/start_domain_em_ad.int
+END
+module_sfs_driver_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_sfs_driver_ad.F
+END
+module_sfs_nba_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_sfs_nba_tl.F
+END
+module_diffusion_em_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_diffusion_em_ad.F
+END
+module_bl_gwdo_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bl_gwdo_tl.F
+END
+module_physics_addtendc_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_physics_addtendc_ad.F
+END
+module_sfs_nba_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_sfs_nba_ad.F
+END
+module_bl_gwdo_ad.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bl_gwdo_ad.F
+END
+module_mp_mkessler.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_mp_mkessler.F
+END
+module_bc_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_bc_tl.F
+END
+module_first_rk_step_part1_tl.F
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_first_rk_step_part1_tl.F
+END
+module_adtl_grid_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1359/WRF/wrftladj/module_adtl_grid_utilities.F
+END

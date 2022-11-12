@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_tropical_cyclone
+END
+README.tropical_cyclone
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/614/WRF/test/em_tropical_cyclone/README.tropical_cyclone
+END
+input_sounding
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/614/WRF/test/em_tropical_cyclone/input_sounding
+END
+run_me_first.csh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/614/WRF/test/em_tropical_cyclone/run_me_first.csh
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_tropical_cyclone/namelist.input
+END

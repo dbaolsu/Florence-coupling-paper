@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP
+END
+scrip_constants.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_constants.f
+END
+scrip_netcdfmod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_netcdfmod.f90
+END
+scrip_remap_conservative.f
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_remap_conservative.f
+END
+scrip_remap_write.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_remap_write.f
+END
+scrip_remap_read.f
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_remap_read.f
+END
+scrip_remap_vars.f
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_remap_vars.f
+END
+scrip_kindsmod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_kindsmod.f90
+END
+SCRIP.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/SCRIP.mk
+END
+SCRIP_NC.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/SCRIP_NC.mk
+END
+scrip_errormod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_errormod.f90
+END
+scrip_interface.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_interface.ftn
+END
+scrip_iounitsmod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_iounitsmod.f90
+END
+scrip_timers.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_timers.f
+END
+scrip_grids.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/SCRIP/scrip_grids.f
+END

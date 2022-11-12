@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing
+END
+da_trace_exit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_trace_exit.inc
+END
+da_trace_real_sort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_trace_real_sort.inc
+END
+da_trace_report.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_trace_report.inc
+END
+da_tracing.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_tracing.f90
+END
+da_trace.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_trace.inc
+END
+da_trace_entry.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_trace_entry.inc
+END
+da_trace_int_sort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_trace_int_sort.inc
+END
+da_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_memory.c
+END
+da_trace_init.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_tracing/da_trace_init.inc
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab
+END
+write_x_and_y_example.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/write_x_and_y_example.m
+END
+read_WWNCf_var.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/read_WWNCf_var.m
+END
+example_plot_from_netcdf_unst.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/example_plot_from_netcdf_unst.m
+END
+example_read_spectrum.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/example_read_spectrum.m
+END
+example_plot_from_netcdf_rect.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/example_plot_from_netcdf_rect.m
+END
+read_WWNCUG_var.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/read_WWNCUG_var.m
+END
+read_outf_hs_generic.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/read_outf_hs_generic.m
+END
+read_scalar.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/read_scalar.m
+END
+read_WWNC_var.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/read_WWNC_var.m
+END
+example_plotf_from_netcdf_rect.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/matlab/example_plotf_from_netcdf_rect.m
+END

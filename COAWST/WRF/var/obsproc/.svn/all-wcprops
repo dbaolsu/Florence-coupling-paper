@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/obsproc
+END
+namelist.obsproc.3dvar.wrfvar-tut
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/obsproc/namelist.obsproc.3dvar.wrfvar-tut
+END
+namelist.obsproc.4dvar.wrfvar-tut
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/obsproc/namelist.obsproc.4dvar.wrfvar-tut
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/obsproc/Changes
+END
+README.namelist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/obsproc/README.namelist
+END
+msfc.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/obsproc/msfc.tbl
+END
+no_comment.sed
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/obsproc/no_comment.sed
+END
+obserr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/obsproc/obserr.txt
+END
+prepbufr_table_filename
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/obsproc/prepbufr_table_filename
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/obsproc/Makefile
+END

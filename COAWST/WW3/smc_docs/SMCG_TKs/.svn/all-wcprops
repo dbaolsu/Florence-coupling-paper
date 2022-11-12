@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs
+END
+smcrv50kgrid
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/smcrv50kgrid
+END
+G50AISide.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50AISide.dat
+END
+G50kmBathy.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50kmBathy.dat
+END
+G50AJSide.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50AJSide.dat
+END
+G50GObstr.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50GObstr.dat
+END
+G50SAcSide.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50SAcSide.f90
+END
+smc625swhGlb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/smc625swhGlb.pro
+END
+g50smcgrids.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/g50smcgrids.pro
+END
+G50GISide.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50GISide.dat
+END
+G50GJSide.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50GJSide.dat
+END
+g50smstrspb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/g50smstrspb.pro
+END
+steromap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/steromap.pro
+END
+G50SMCBAr.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50SMCBAr.dat
+END
+eq2lldeg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/eq2lldeg.pro
+END
+Glob50SMCels.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/Glob50SMCels.pro
+END
+ll2eqdeg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/ll2eqdeg.pro
+END
+smcrv50kinit
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/smcrv50kinit
+END
+linuxspectrum.clr
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/linuxspectrum.clr
+END
+countijsd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/countijsd
+END
+G50SGlSide.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50SGlSide.f90
+END
+Glob50SMCObstr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/Glob50SMCObstr.pro
+END
+G50kmObstr.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50kmObstr.dat
+END
+g50smcswhglb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/g50smcswhglb.pro
+END
+readproj.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/readproj.pro
+END
+smc625gridGlb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/smc625gridGlb.pro
+END
+readcell.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/readcell.pro
+END
+countcells
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/countcells
+END
+G50SMCSRGD.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/G50SMCSRGD.f90
+END
+smcrv50kmrun
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1410/WW3/smc_docs/SMCG_TKs/smcrv50kmrun
+END

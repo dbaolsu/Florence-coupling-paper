@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kma_netcdf
+END
+module_kma2netcdf_interface.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kma_netcdf/module_kma2netcdf_interface.f90
+END
+module_netcdf2kma_interface.f90
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kma_netcdf/module_netcdf2kma_interface.f90
+END
+kma2netcdf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kma_netcdf/kma2netcdf.f90
+END
+netcdf2kma.f90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/kma_netcdf/netcdf2kma.f90
+END

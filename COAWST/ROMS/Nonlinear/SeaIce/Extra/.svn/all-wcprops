@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1429/ROMS/Nonlinear/SeaIce/Extra
+END
+shr_kind_mod.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1370/ROMS/Nonlinear/SeaIce/Extra/shr_kind_mod.F
+END
+shr_const_mod.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1370/ROMS/Nonlinear/SeaIce/Extra/shr_const_mod.F
+END
+ice_fakecpl.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1429/ROMS/Nonlinear/SeaIce/Extra/ice_fakecpl.F
+END
+scatter.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1370/ROMS/Nonlinear/SeaIce/Extra/scatter.F
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1429/ROMS/Nonlinear/SeaIce/Extra/Module.mk
+END
+shr_sys_mod.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1370/ROMS/Nonlinear/SeaIce/Extra/shr_sys_mod.F
+END
+gather.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1370/ROMS/Nonlinear/SeaIce/Extra/gather.F
+END
+shr_file_mod.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1370/ROMS/Nonlinear/SeaIce/Extra/shr_file_mod.F
+END

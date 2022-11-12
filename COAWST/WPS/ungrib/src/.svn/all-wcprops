@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/1476/WPS/ungrib/src
+END
+misc_definitions_module.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/misc_definitions_module.F
+END
+module_debug.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/module_debug.F
+END
+geth_newdate.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/627/WPS/ungrib/src/geth_newdate.F
+END
+output.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1206/WPS/ungrib/src/output.F
+END
+gridinfo.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1206/WPS/ungrib/src/gridinfo.F
+END
+file_delete.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/849/WPS/ungrib/src/file_delete.F
+END
+build_hdate.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/build_hdate.F
+END
+cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/cio.c
+END
+read_namelist.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1327/WPS/ungrib/src/read_namelist.F
+END
+gbytesys.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/gbytesys.F
+END
+module_stringutil.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/module_stringutil.F
+END
+geth_idts.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/627/WPS/ungrib/src/geth_idts.F
+END
+swap.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/swap.F
+END
+filelist.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/filelist.F
+END
+module_datarray.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/module_datarray.F
+END
+debug_cio.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/debug_cio.c
+END
+new_storage.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/849/WPS/ungrib/src/new_storage.F
+END
+gribcode.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1327/WPS/ungrib/src/gribcode.F
+END
+parse_table.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/882/WPS/ungrib/src/parse_table.F
+END
+datint.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/datint.F
+END
+g1print.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1476/WPS/ungrib/src/g1print.F
+END
+g2print.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1206/WPS/ungrib/src/g2print.F
+END
+rrpr.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1476/WPS/ungrib/src/rrpr.F
+END
+ungrib.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1327/WPS/ungrib/src/ungrib.F
+END
+table.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/425/WPS/ungrib/src/table.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/627/WPS/ungrib/src/Makefile
+END
+rd_grib1.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1327/WPS/ungrib/src/rd_grib1.F
+END
+rd_grib2.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1327/WPS/ungrib/src/rd_grib2.F
+END

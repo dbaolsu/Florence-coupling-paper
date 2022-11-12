@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_programs/gcip_sw_to_grib
+END
+srb_daily_to_grib.F
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_programs/gcip_sw_to_grib/srb_daily_to_grib.F
+END
+srb_monthly_to_grib.F
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_programs/gcip_sw_to_grib/srb_monthly_to_grib.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_programs/gcip_sw_to_grib/Makefile
+END

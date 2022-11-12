@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Data_Rec
+END
+rt_include.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Data_Rec/rt_include.inc
+END
+module_gw_gw2d_data.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Data_Rec/module_gw_gw2d_data.F
+END
+namelist.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Data_Rec/namelist.inc
+END
+module_namelist.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Data_Rec/module_namelist.F
+END
+module_RT_data.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Data_Rec/module_RT_data.F
+END
+gw_field_include.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Data_Rec/gw_field_include.inc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Data_Rec/Makefile
+END

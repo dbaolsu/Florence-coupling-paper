@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_convrad
+END
+input_sounding
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1077/WRF/test/em_convrad/input_sounding
+END
+README.convrad
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1077/WRF/test/em_convrad/README.convrad
+END
+run_me_first.csh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1207/WRF/test/em_convrad/run_me_first.csh
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_convrad/namelist.input
+END

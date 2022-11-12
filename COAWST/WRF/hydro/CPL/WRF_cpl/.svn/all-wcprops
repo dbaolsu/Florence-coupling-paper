@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/CPL/WRF_cpl
+END
+wrf_drv_HYDRO.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1207/WRF/hydro/CPL/WRF_cpl/wrf_drv_HYDRO.F
+END
+Makefile.cpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/841/WRF/hydro/CPL/WRF_cpl/Makefile.cpl
+END
+module_wrf_HYDRO_downscale.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1213/WRF/hydro/CPL/WRF_cpl/module_wrf_HYDRO_downscale.F
+END
+module_wrf_HYDRO.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/CPL/WRF_cpl/module_wrf_HYDRO.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1414/WRF/hydro/CPL/WRF_cpl/Makefile
+END

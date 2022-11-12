@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/coawstmodel/COAWST/!svn/ver/1477/WRF/run
+END
+constants.asc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/constants.asc
+END
+CLM_EXT_ICE_DRC_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_EXT_ICE_DRC_DATA
+END
+BROADBAND_CLOUD_GODDARD.bin
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1416/WRF/run/BROADBAND_CLOUD_GODDARD.bin
+END
+p3_lookup_table_1.dat-v4.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1416/WRF/run/p3_lookup_table_1.dat-v4.1
+END
+aerosol_lon.formatted
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/aerosol_lon.formatted
+END
+CLM_EXT_ICE_DFS_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_EXT_ICE_DFS_DATA
+END
+tr49t67
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/tr49t67
+END
+tr67t85
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/tr67t85
+END
+ETAMPNEW_DATA.expanded_rain
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/613/WRF/run/ETAMPNEW_DATA.expanded_rain
+END
+URBPARM_UZE.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1207/WRF/run/URBPARM_UZE.TBL
+END
+ozone_lat.formatted
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/ozone_lat.formatted
+END
+README.tslist
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1477/WRF/run/README.tslist
+END
+CAMtr_volume_mixing_ratio.RCP6
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CAMtr_volume_mixing_ratio.RCP6
+END
+kernels.asc_s_0_03_0_9
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/kernels.asc_s_0_03_0_9
+END
+README.rasm_diag
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1212/WRF/run/README.rasm_diag
+END
+wind-turbine-1.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/wind-turbine-1.tbl
+END
+bulkdens.asc_s_0_03_0_9
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/bulkdens.asc_s_0_03_0_9
+END
+RRTMG_LW_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/611/WRF/run/RRTMG_LW_DATA
+END
+URBPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1417/WRF/run/URBPARM.TBL
+END
+CLM_DRDSDT0_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_DRDSDT0_DATA
+END
+CLM_ALB_ICE_DRC_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_ALB_ICE_DRC_DATA
+END
+CCN_ACTIVATE.BIN
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CCN_ACTIVATE.BIN
+END
+ETAMPNEW_DATA.expanded_rain_DBL
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/613/WRF/run/ETAMPNEW_DATA.expanded_rain_DBL
+END
+CLM_ALB_ICE_DFS_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_ALB_ICE_DFS_DATA
+END
+p3_lookup_table_2.dat-v4.1
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1416/WRF/run/p3_lookup_table_2.dat-v4.1
+END
+ishmael-qi-qc.bin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1416/WRF/run/ishmael-qi-qc.bin
+END
+CAM_AEROPT_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/CAM_AEROPT_DATA
+END
+MPTABLE.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1417/WRF/run/MPTABLE.TBL
+END
+termvels.asc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/termvels.asc
+END
+RRTMG_LW_DATA_DBL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/611/WRF/run/RRTMG_LW_DATA_DBL
+END
+ishmael-gamma-tab.bin
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1416/WRF/run/ishmael-gamma-tab.bin
+END
+ozone.formatted
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/ozone.formatted
+END
+aerosol_plev.formatted
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/aerosol_plev.formatted
+END
+ishmael-qi-qr.bin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1416/WRF/run/ishmael-qi-qr.bin
+END
+CAMtr_volume_mixing_ratio.RCP4.5
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CAMtr_volume_mixing_ratio.RCP4.5
+END
+VEGPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1207/WRF/run/VEGPARM.TBL
+END
+CAMtr_volume_mixing_ratio.RCP8.5
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CAMtr_volume_mixing_ratio.RCP8.5
+END
+aerosol_lat.formatted
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/aerosol_lat.formatted
+END
+co2_trans
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/421/WRF/run/co2_trans
+END
+gribmap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1328/WRF/run/gribmap.txt
+END
+kernels_z.asc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/kernels_z.asc
+END
+capacity.asc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/capacity.asc
+END
+tr49t85
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/tr49t85
+END
+ozone_plev.formatted
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/ozone_plev.formatted
+END
+coeff_p.asc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/coeff_p.asc
+END
+coeff_q.asc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/coeff_q.asc
+END
+CAMtr_volume_mixing_ratio.A2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CAMtr_volume_mixing_ratio.A2
+END
+ETAMPNEW_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/ETAMPNEW_DATA
+END
+LANDUSE.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1417/WRF/run/LANDUSE.TBL
+END
+CLM_ASM_ICE_DRC_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_ASM_ICE_DRC_DATA
+END
+RRTM_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/RRTM_DATA
+END
+SOILPARM.TBL_Kishne_2017
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1418/WRF/run/SOILPARM.TBL_Kishne_2017
+END
+CLM_ASM_ICE_DFS_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_ASM_ICE_DFS_DATA
+END
+CLM_KAPPA_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_KAPPA_DATA
+END
+grib2map.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1328/WRF/run/grib2map.tbl
+END
+create_p3_lookupTable_1.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1417/WRF/run/create_p3_lookupTable_1.f90
+END
+bulkradii.asc_s_0_03_0_9
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/bulkradii.asc_s_0_03_0_9
+END
+HLC.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/1364/WRF/run/HLC.TBL
+END
+aerosol.formatted
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/aerosol.formatted
+END
+ETAMPNEW_DATA_DBL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/ETAMPNEW_DATA_DBL
+END
+RRTMG_SW_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/RRTMG_SW_DATA
+END
+RRTM_DATA_DBL
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/RRTM_DATA_DBL
+END
+masses.asc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/masses.asc
+END
+SOILPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1207/WRF/run/SOILPARM.TBL
+END
+CAMtr_volume_mixing_ratio.A1B
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CAMtr_volume_mixing_ratio.A1B
+END
+README.namelist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1477/WRF/run/README.namelist
+END
+GENPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/419/WRF/run/GENPARM.TBL
+END
+CLM_TAU_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/835/WRF/run/CLM_TAU_DATA
+END
+RRTMG_SW_DATA_DBL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/RRTMG_SW_DATA_DBL
+END
+CAM_ABS_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/185/WRF/run/CAM_ABS_DATA
+END

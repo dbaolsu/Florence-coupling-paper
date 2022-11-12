@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/coawstmodel/COAWST/!svn/ver/1477/WRF/main
+END
+wrf.F
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/1328/WRF/main/wrf.F
+END
+ideal_em.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1328/WRF/main/ideal_em.F
+END
+convert_em.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/882/WRF/main/convert_em.F
+END
+wrf_SST_ESMF.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1207/WRF/main/wrf_SST_ESMF.F
+END
+depend.common
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1477/WRF/main/depend.common
+END
+real_em.F
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1328/WRF/main/real_em.F
+END
+ideal_nmm.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1207/WRF/main/ideal_nmm.F
+END
+module_wrf_top.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1477/WRF/main/module_wrf_top.F
+END
+ndown_em.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1417/WRF/main/ndown_em.F
+END
+tc_em.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1328/WRF/main/tc_em.F
+END
+wrf_ESMFMod.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/607/WRF/main/wrf_ESMFMod.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1328/WRF/main/Makefile
+END
+real_nmm.F
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1207/WRF/main/real_nmm.F
+END

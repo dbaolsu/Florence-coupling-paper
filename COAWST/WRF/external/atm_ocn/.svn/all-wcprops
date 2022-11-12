@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/atm_ocn
+END
+cmpcomm.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1207/WRF/external/atm_ocn/cmpcomm.F
+END
+atm_comm.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/atm_ocn/atm_comm.F
+END
+atm_tiles.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/atm_ocn/atm_tiles.F
+END
+module_PATCH_QUILT.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/atm_ocn/module_PATCH_QUILT.F
+END
+atm_comm_pom.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/614/WRF/external/atm_ocn/atm_comm_pom.F
+END
+mpi_more.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1207/WRF/external/atm_ocn/mpi_more.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/atm_ocn/Makefile
+END

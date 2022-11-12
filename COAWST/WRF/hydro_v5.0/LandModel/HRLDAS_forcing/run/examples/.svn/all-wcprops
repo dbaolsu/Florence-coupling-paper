@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples
+END
+namelist.example.complex
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/namelist.example.complex
+END
+namelist.example.simple
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/namelist.example.simple
+END

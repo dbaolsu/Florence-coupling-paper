@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input
+END
+ww3_shel.inp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_shel.inp
+END
+ww3_shel.nml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_shel.nml
+END
+ww3_outf_whgt_end.inp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_outf_whgt_end.inp
+END
+ww3_strt.inp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_strt.inp
+END
+switch_PR1
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/switch_PR1
+END
+ww3_outf_depth.inp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_outf_depth.inp
+END
+switch_PR2_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/switch_PR2_UQ
+END
+ww3_outf_Hxy.inp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_outf_Hxy.inp
+END
+switch_PR3_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/switch_PR3_UQ
+END
+ww3_ounf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_ounf.nml
+END
+ww3_ounf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_ounf.inp
+END
+switch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/switch
+END
+switch_PR2_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/switch_PR2_UNO
+END
+MONOCHROMATIC.depth
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/MONOCHROMATIC.depth
+END
+switch_PR3_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/switch_PR3_UNO
+END
+namelists_MONOCHROMATIC.nml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/namelists_MONOCHROMATIC.nml
+END
+ww3_outf_flds_hrly.inp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_outf_flds_hrly.inp
+END
+ww3_grid.nml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_grid.nml
+END
+ww3_grid.inp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp1.3/input/ww3_grid.inp
+END

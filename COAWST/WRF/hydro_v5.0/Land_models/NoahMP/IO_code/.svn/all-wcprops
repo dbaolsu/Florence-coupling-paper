@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/IO_code
+END
+main_hrldas_driver.F
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/IO_code/main_hrldas_driver.F
+END
+module_hrldas_netcdf_io.F
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/IO_code/module_hrldas_netcdf_io.F
+END
+module_NoahMP_hrldas_driver.F
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/IO_code/module_NoahMP_hrldas_driver.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/IO_code/Makefile
+END

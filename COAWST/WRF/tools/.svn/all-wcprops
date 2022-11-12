@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/coawstmodel/COAWST/!svn/ver/1417/WRF/tools
+END
+set_dim_strs.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/834/WRF/tools/set_dim_strs.c
+END
+build_codebase
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/build_codebase
+END
+test4_0_ESMFSST.lsf.csh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/609/WRF/tools/test4_0_ESMFSST.lsf.csh
+END
+regtest.csh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/607/WRF/tools/regtest.csh
+END
+callgraph.page1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/callgraph.page1
+END
+regtest_nmmnest.csh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/607/WRF/tools/regtest_nmmnest.csh
+END
+callgraph.page2
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/callgraph.page2
+END
+debug_macro_toolchest
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/debug_macro_toolchest
+END
+gen_comms_warning
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/gen_comms_warning
+END
+gen_wrf_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/gen_wrf_io.c
+END
+four2eight.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/419/WRF/tools/four2eight.c
+END
+danger
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/danger
+END
+regtest_esmf.csh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/609/WRF/tools/regtest_esmf.csh
+END
+nc4_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/842/WRF/tools/nc4_test.c
+END
+link_codebase_to_wrfbrowser
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/link_codebase_to_wrfbrowser
+END
+symtab_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/419/WRF/tools/symtab_gen.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/Makefile
+END
+fseek_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/fseek_test.c
+END
+update_fork.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1417/WRF/tools/update_fork.pl
+END
+mpi2_thread_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/mpi2_thread_test.c
+END
+fortran_2003_iso_c_test.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/842/WRF/tools/fortran_2003_iso_c_test.F
+END
+standard.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1207/WRF/tools/standard.c
+END
+all_reg.csh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/all_reg.csh
+END
+gen_comms.stub
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/gen_comms.stub
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/419/WRF/tools/data.c
+END
+source_for_pgi_windows.bash
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/422/WRF/tools/source_for_pgi_windows.bash
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/data.h
+END
+any_updates_in_registry.csh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1211/WRF/tools/any_updates_in_registry.csh
+END
+fortran_2003_fflush_test.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1077/WRF/tools/fortran_2003_fflush_test.F
+END
+build_test.csh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/build_test.csh
+END
+test_nml_domains.csh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1211/WRF/tools/test_nml_domains.csh
+END
+gen_interp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/882/WRF/tools/gen_interp.c
+END
+protos.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/protos.h
+END
+testomatic
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/testomatic
+END
+non_ascii_finder.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1211/WRF/tools/non_ascii_finder.F
+END
+safe
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/safe
+END
+gen_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/gen_config.c
+END
+mpi2_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/mpi2_test.c
+END
+gen_allocs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1417/WRF/tools/gen_allocs.c
+END
+reg_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/reg_parse.c
+END
+sym.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/sym.c
+END
+registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/registry.c
+END
+check_for_bad_includes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1211/WRF/tools/check_for_bad_includes.pl
+END
+gen_irr_diag.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1364/WRF/tools/gen_irr_diag.c
+END
+source_for_pgi_windows.csh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/422/WRF/tools/source_for_pgi_windows.csh
+END
+sym.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/sym.h
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/registry.h
+END
+type.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/419/WRF/tools/type.c
+END
+gen_scalar_derefs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/607/WRF/tools/gen_scalar_derefs.c
+END
+daughter.gif
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/daughter.gif
+END
+my_strtok.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/419/WRF/tools/my_strtok.c
+END
+regtest_hwrf.csh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/607/WRF/tools/regtest_hwrf.csh
+END
+index.page
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/index.page
+END
+gen_streams.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/gen_streams.c
+END
+commit_form.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/commit_form.txt
+END
+fortran_2003_ieee_test.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1072/WRF/tools/fortran_2003_ieee_test.F
+END
+gen_defs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/419/WRF/tools/gen_defs.c
+END
+nest_test.tar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/nest_test.tar
+END
+fortran_2003_flush_test.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1077/WRF/tools/fortran_2003_flush_test.F
+END
+test_compile.csh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/test_compile.csh
+END
+subinfo
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/subinfo
+END
+collapsd.gif
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/collapsd.gif
+END
+gen_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/607/WRF/tools/gen_args.c
+END
+gen_model_data_ord.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/419/WRF/tools/gen_model_data_ord.c
+END
+exploded.gif
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/exploded.gif
+END
+gen_mod_state_descr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/gen_mod_state_descr.c
+END
+fortran_2008_gamma_test.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1211/WRF/tools/fortran_2008_gamma_test.F
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1072/WRF/tools/misc.c
+END
+gen_scalar_indices.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1328/WRF/tools/gen_scalar_indices.c
+END

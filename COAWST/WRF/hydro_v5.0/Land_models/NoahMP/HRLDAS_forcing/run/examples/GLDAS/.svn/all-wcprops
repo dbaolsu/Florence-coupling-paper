@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS
+END
+check_SW.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/check_SW.ncl
+END
+combine_precips.perl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/combine_precips.perl
+END
+fill_SSRD.perl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/fill_SSRD.perl
+END
+namelist.input.GLDAS
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/namelist.input.GLDAS
+END
+gribtab_GLDAS_NOAH.gtb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/gribtab_GLDAS_NOAH.gtb
+END
+extract_gldas.perl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/extract_gldas.perl
+END
+GLDAS_ELEVATION.grb.gz
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/GLDAS_ELEVATION.grb.gz
+END
+extract_gldas_init.perl
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/extract_gldas_init.perl
+END
+create_UV.f90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/create_UV.f90
+END
+combine_precips.f90
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/combine_precips.f90
+END
+create_UV.perl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/create_UV.perl
+END
+fill_SSRD.f90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/GLDAS/fill_SSRD.f90
+END

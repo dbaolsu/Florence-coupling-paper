@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing
+END
+module_UDMAP.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_UDMAP.F
+END
+module_noah_chan_param_init_rt.F
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_noah_chan_param_init_rt.F
+END
+module_NWM_io.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_NWM_io.F
+END
+module_NWM_io_dict.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_NWM_io_dict.F
+END
+Noah_distr_routing.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/Noah_distr_routing.F
+END
+module_HYDRO_io.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_HYDRO_io.F
+END
+module_date_utilities_rt.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_date_utilities_rt.F
+END
+module_GW_baseflow.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_GW_baseflow.F
+END
+module_channel_routing.F
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_channel_routing.F
+END
+module_gw_gw2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_gw_gw2d.F
+END
+module_lsm_forcing.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_lsm_forcing.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/Makefile
+END
+module_HYDRO_utils.F
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_HYDRO_utils.F
+END
+module_RT.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Routing/module_RT.F
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx
+END
+w3prnt.f
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/w3prnt.f
+END
+spec_ids.gen
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/spec_ids.gen
+END
+colorset.gs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/colorset.gs
+END
+spec.gs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/spec.gs
+END
+make_multi_nco_cray
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/make_multi_nco_cray
+END
+w3adc.f
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/w3adc.f
+END
+profile.gs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/profile.gs
+END
+source.gs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/source.gs
+END
+1source.gs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/1source.gs
+END
+w3split.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/w3split.f
+END
+w3list.f
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/w3list.f
+END
+cbarn.gs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/cbarn.gs
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/makefile
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide
+END
+docu_subr.tex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/docu_subr.tex
+END
+jas.bst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/jas.bst
+END
+svn.sty
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/svn.sty
+END
+bib_strip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/bib_strip.sh
+END
+psfig.sty
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/psfig.sty
+END
+docu_mod.tex
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/docu_mod.tex
+END
+guide.bib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/guide.bib
+END
+guide.tex
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/guide.tex
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1410/WW3/guide/makefile
+END

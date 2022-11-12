@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/io_grib1
+END
+test_grib1_routines.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/test_grib1_routines.F
+END
+io_grib1.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1072/WRF/external/io_grib1/io_grib1.F
+END
+grib1_routines.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/grib1_routines.h
+END
+diffwrf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/834/WRF/external/io_grib1/diffwrf
+END
+README.io_grib1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/README.io_grib1
+END
+test.grb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/test.grb
+END
+test_grid_info.F90
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/test_grid_info.F90
+END
+test_read_gribmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/test_read_gribmap.c
+END
+trim.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/trim.c
+END
+gribmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/gribmap.c
+END
+wrf_status_codes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/wrf_status_codes.h
+END
+gribmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/gribmap.h
+END
+test_write_grib.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/test_write_grib.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/io_grib1/Makefile
+END
+grib1_routines.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/grib1_routines.c
+END
+test_gribmap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/test_gribmap.F90
+END
+test_io_grib1.F
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_grib1/test_io_grib1.F
+END

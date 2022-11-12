@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/io_esmf
+END
+TODO.list
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_esmf/TODO.list
+END
+ext_esmf_write_field.F90
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/607/WRF/external/io_esmf/ext_esmf_write_field.F90
+END
+ext_esmf_read_field.F90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/607/WRF/external/io_esmf/ext_esmf_read_field.F90
+END
+module_utility.F90
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_esmf/module_utility.F90
+END
+module_symbols_util.F90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/607/WRF/external/io_esmf/module_symbols_util.F90
+END
+ext_esmf_open_for_write.F90
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/607/WRF/external/io_esmf/ext_esmf_open_for_write.F90
+END
+ext_esmf_open_for_read.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/607/WRF/external/io_esmf/ext_esmf_open_for_read.F90
+END
+module_esmf_extensions.F90
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/607/WRF/external/io_esmf/module_esmf_extensions.F90
+END
+README.io_esmf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/185/WRF/external/io_esmf/README.io_esmf
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/io_esmf/makefile
+END
+io_esmf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/607/WRF/external/io_esmf/io_esmf.F90
+END

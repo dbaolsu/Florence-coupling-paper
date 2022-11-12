@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NUOPC_cpl
+END
+wrfhydro_nuopc_cap.F90
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NUOPC_cpl/wrfhydro_nuopc_cap.F90
+END
+wrfhydro_nuopc_addonutils.F90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NUOPC_cpl/wrfhydro_nuopc_addonutils.F90
+END
+wrfhydro_nuopc_gluecode.F90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NUOPC_cpl/wrfhydro_nuopc_gluecode.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NUOPC_cpl/Makefile
+END

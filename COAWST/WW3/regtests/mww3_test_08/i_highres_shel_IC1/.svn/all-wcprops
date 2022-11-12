@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1
+END
+namelists_inner.nml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/namelists_inner.nml
+END
+ww3_shel.nml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_shel.nml
+END
+ww3_shel.inp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_shel.inp
+END
+ww3_strt.inp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_strt.inp
+END
+inner.obst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/inner.obst
+END
+points.list
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/points.list
+END
+ww3_ounf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_ounf.nml
+END
+ww3_ounf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_ounf.inp
+END
+switch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/switch
+END
+ww3_outf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_outf.inp
+END
+ww3_grid.nml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_grid.nml
+END
+ww3_grid.inp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_grid.inp
+END
+ww3_prep_ice.inp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_prep_ice.inp
+END
+ww3_prep_wind.inp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/ww3_prep_wind.inp
+END
+inner.depth
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/mww3_test_08/i_highres_shel_IC1/inner.depth
+END

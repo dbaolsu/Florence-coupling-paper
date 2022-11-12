@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/mkinstalldirs
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/config.h.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/configure
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/configure.ac
+END
+Makefile.conf.in
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/Makefile.conf.in
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/COPYRIGHT
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/README
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/Makefile
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/install-sh
+END

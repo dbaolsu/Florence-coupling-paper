@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_define_structures
+END
+da_zero_x.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_zero_x.inc
+END
+da_zero_y.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_zero_y.inc
+END
+da_allocate_y.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_define_structures/da_allocate_y.inc
+END
+da_gauss_noise.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_gauss_noise.inc
+END
+da_allocate_background_errors.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_allocate_background_errors.inc
+END
+da_random_seed.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_random_seed.inc
+END
+da_define_structures.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_define_structures/da_define_structures.f90
+END
+da_allocate_observations.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_allocate_observations.inc
+END
+da_zero_vp_type.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_zero_vp_type.inc
+END
+da_deallocate_y.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_define_structures/da_deallocate_y.inc
+END
+da_allocate_y_rain.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_allocate_y_rain.inc
+END
+da_allocate_y_radar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_define_structures/da_allocate_y_radar.inc
+END
+da_deallocate_background_errors.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_deallocate_background_errors.inc
+END
+da_initialize_cv.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_initialize_cv.inc
+END
+da_deallocate_observations.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_define_structures/da_deallocate_observations.inc
+END
+da_allocate_observations_rain.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_allocate_observations_rain.inc
+END
+da_allocate_obs_info.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_define_structures/da_allocate_obs_info.inc
+END

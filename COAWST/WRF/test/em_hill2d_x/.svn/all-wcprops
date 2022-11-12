@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_hill2d_x
+END
+input_sounding
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_hill2d_x/input_sounding
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_hill2d_x/namelist.input
+END

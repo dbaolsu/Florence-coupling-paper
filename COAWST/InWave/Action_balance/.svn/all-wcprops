@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1471/InWave/Action_balance
+END
+corstep_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1471/InWave/Action_balance/corstep_inw.F
+END
+dispersion_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1277/InWave/Action_balance/dispersion_inw.F
+END
+eikonal_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1405/InWave/Action_balance/eikonal_inw.F
+END
+prestep_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1471/InWave/Action_balance/prestep_inw.F
+END
+dispersion_wr_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1234/InWave/Action_balance/dispersion_wr_inw.F
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/523/InWave/Action_balance/Module.mk
+END
+celer_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1440/InWave/Action_balance/celer_inw.F
+END
+frc_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1301/InWave/Action_balance/frc_inw.F
+END
+curr_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1320/InWave/Action_balance/curr_inw.F
+END
+dissip_inw.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1439/InWave/Action_balance/dissip_inw.F
+END

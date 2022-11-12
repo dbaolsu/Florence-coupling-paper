@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NoahMP_cpl
+END
+hrldas_drv_HYDRO.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NoahMP_cpl/hrldas_drv_HYDRO.F
+END
+module_hrldas_HYDRO.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NoahMP_cpl/module_hrldas_HYDRO.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/NoahMP_cpl/Makefile
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1417/WRF/test/nmm_tropical_cyclone
+END
+input.d
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/841/WRF/test/nmm_tropical_cyclone/input.d
+END
+sigma.d
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/841/WRF/test/nmm_tropical_cyclone/sigma.d
+END
+land.nml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/nmm_tropical_cyclone/land.nml
+END
+storm.center
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/841/WRF/test/nmm_tropical_cyclone/storm.center
+END
+namelist.wps
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1417/WRF/test/nmm_tropical_cyclone/namelist.wps
+END
+sound_gfdl.d
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/841/WRF/test/nmm_tropical_cyclone/sound_gfdl.d
+END
+sound_jordan.d
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/841/WRF/test/nmm_tropical_cyclone/sound_jordan.d
+END
+sound_wet.d
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/841/WRF/test/nmm_tropical_cyclone/sound_wet.d
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1417/WRF/test/nmm_tropical_cyclone/namelist.input
+END
+sound.d
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/841/WRF/test/nmm_tropical_cyclone/sound.d
+END
+README.NMM.TROPICAL_CYCLONE
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1207/WRF/test/nmm_tropical_cyclone/README.NMM.TROPICAL_CYCLONE
+END

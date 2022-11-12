@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/external/wavelet
+END
+dwtai_w.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/dwtai_w.c
+END
+test_filter.F90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/test_filter.F90
+END
+PrintFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/PrintFilter.c
+END
+idwtai2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/idwtai2.c
+END
+dwta_partition.F90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/dwta_partition.F90
+END
+qftest.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/qftest.c
+END
+idwtai_w.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/idwtai_w.c
+END
+dwtai.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/dwtai.c
+END
+l2norm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/l2norm.c
+END
+realt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/realt.h
+END
+print_filter.F90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/print_filter.F90
+END
+dwtai2_w.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/dwtai2_w.c
+END
+idwtai.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/idwtai.c
+END
+TestFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/TestFilter.c
+END
+DWTAPartition.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/DWTAPartition.c
+END
+idwtai2_w.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/idwtai2_w.c
+END
+dwtai2.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/dwtai2.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/external/wavelet/makefile
+END
+qf_w.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/qf_w.c
+END
+qftest_w.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/external/wavelet/qftest_w.c
+END

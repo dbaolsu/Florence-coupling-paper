@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/coawstmodel/COAWST/!svn/ver/1476/WPS/geogrid
+END
+gribmap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/425/WPS/geogrid/gribmap.txt
+END
+GEOGRID.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/425/WPS/geogrid/GEOGRID.TBL
+END
+GEOGRID.TBL.ARW_CHEM
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1327/WPS/geogrid/GEOGRID.TBL.ARW_CHEM
+END
+GEOGRID.TBL.FIRE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1327/WPS/geogrid/GEOGRID.TBL.FIRE
+END
+GEOGRID.TBL.NMM
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1327/WPS/geogrid/GEOGRID.TBL.NMM
+END
+GEOGRID.TBL.ARW
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1476/WPS/geogrid/GEOGRID.TBL.ARW
+END
+GEOGRID.TBL.ARW.noahmp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1327/WPS/geogrid/GEOGRID.TBL.ARW.noahmp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/425/WPS/geogrid/Makefile
+END

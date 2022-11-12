@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/data
+END
+grid.320x384.da
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/data/grid.320x384.da
+END
+kmt_full_40.da
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/data/kmt_full_40.da
+END
+popx1_to_t42_c_mat.asc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/data/popx1_to_t42_c_mat.asc
+END
+t42_to_popx1_c_mat.asc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/300/Lib/MCT/data/t42_to_popx1_c_mat.asc
+END

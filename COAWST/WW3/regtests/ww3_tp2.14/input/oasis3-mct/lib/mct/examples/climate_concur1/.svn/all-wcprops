@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/examples/climate_concur1
+END
+coupler.F90
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/examples/climate_concur1/coupler.F90
+END
+master.F90
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/examples/climate_concur1/master.F90
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/examples/climate_concur1/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/examples/climate_concur1/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/examples/climate_concur1/README
+END
+model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/mct/examples/climate_concur1/model.F90
+END

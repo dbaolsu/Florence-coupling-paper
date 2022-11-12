@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/build
+END
+da.make
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/build/da.make
+END
+setup.ksh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/build/setup.ksh
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/build/.gitignore
+END
+da_name_space.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/build/da_name_space.pl
+END
+decode_l2_airs.make
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/build/decode_l2_airs.make
+END
+gen_be.make
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/build/gen_be.make
+END
+setup.csh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/build/setup.csh
+END
+convertor.make
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/build/convertor.make
+END
+depend.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/build/depend.txt
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/build/makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor
+END
+KMA_landmask_428_215
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/KMA_landmask_428_215
+END
+convertor.tar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/convertor.tar
+END
+namelist.kma2netcdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/namelist.kma2netcdf
+END
+convert_nmm.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/convert_nmm.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/Makefile
+END
+ens_obs_var.f90
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/convertor/ens_obs_var.f90
+END

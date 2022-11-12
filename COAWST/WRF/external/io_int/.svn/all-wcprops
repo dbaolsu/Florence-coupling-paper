@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/io_int
+END
+diffwrf.F90
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/839/WRF/external/io_int/diffwrf.F90
+END
+io_int_idx.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/839/WRF/external/io_int/io_int_idx.c
+END
+module_io_int_idx.F90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/839/WRF/external/io_int/module_io_int_idx.F90
+END
+test_io_idx.F90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/839/WRF/external/io_int/test_io_idx.F90
+END
+test_io_mpi.f90
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/839/WRF/external/io_int/test_io_mpi.f90
+END
+io_int_idx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/839/WRF/external/io_int/io_int_idx.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1417/WRF/external/io_int/makefile
+END
+io_int.F90
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/834/WRF/external/io_int/io_int.F90
+END
+module_io_int_read.F90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/839/WRF/external/io_int/module_io_int_read.F90
+END

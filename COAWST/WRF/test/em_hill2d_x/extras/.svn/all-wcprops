@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_hill2d_x/extras
+END
+input_sounding-U=15,N=0.01
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_hill2d_x/extras/input_sounding-U=15,N=0.01
+END
+namelist.input-HILL
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_hill2d_x/extras/namelist.input-HILL
+END
+input_sounding-layers-20mps
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_hill2d_x/extras/input_sounding-layers-20mps
+END
+namelist.input-HILL-51
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_hill2d_x/extras/namelist.input-HILL-51
+END
+namelist.input-700m_hill-15mps-n^2=0.0001-25km_deep-15km_damping-dampcoef=0.08-etac=0.2
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_hill2d_x/extras/namelist.input-700m_hill-15mps-n%5E2=0.0001-25km_deep-15km_damping-dampcoef=0.08-etac=0.2
+END
+input_sounding-U=10,N=0.01
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_hill2d_x/extras/input_sounding-U=10,N=0.01
+END
+namelist.input-100m_hill-10mps-N^2=0.0001-30km_deep-20km_damping-dampcoef=0.1-etac=0.2
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_hill2d_x/extras/namelist.input-100m_hill-10mps-N%5E2=0.0001-30km_deep-20km_damping-dampcoef=0.1-etac=0.2
+END
+namelist.input-HILL-schar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_hill2d_x/extras/namelist.input-HILL-schar
+END

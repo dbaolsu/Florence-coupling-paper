@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/coawstmodel/COAWST/!svn/ver/1477/WRF/Registry
+END
+registry.hyb_coord
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1477/WRF/Registry/registry.hyb_coord
+END
+Registry.EM_COMMON
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1477/WRF/Registry/Registry.EM_COMMON
+END
+registry.lake
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/882/WRF/Registry/registry.lake
+END
+Registry.CONVERT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1477/WRF/Registry/Registry.CONVERT
+END
+registry.trad_fields
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1417/WRF/Registry/registry.trad_fields
+END
+registry.bdy_perturb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1072/WRF/Registry/registry.bdy_perturb
+END
+registry.noahmp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1360/WRF/Registry/registry.noahmp
+END
+registry.les
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/421/WRF/Registry/registry.les
+END
+registry.var_chem
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1328/WRF/Registry/registry.var_chem
+END
+Registry.NMM
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1477/WRF/Registry/Registry.NMM
+END
+registry.avgflx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/421/WRF/Registry/registry.avgflx
+END
+registry.var
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1417/WRF/Registry/registry.var
+END
+registry.new3d_gca
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1213/WRF/Registry/registry.new3d_gca
+END
+registry.tracker
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1207/WRF/Registry/registry.tracker
+END
+Registry.tladj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1360/WRF/Registry/Registry.tladj
+END
+Registry.EM_COMMON.var
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1328/WRF/Registry/Registry.EM_COMMON.var
+END
+Registry.EM
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1417/WRF/Registry/Registry.EM
+END
+registry.em_shared_collection
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1360/WRF/Registry/registry.em_shared_collection
+END
+registry.wrfplus
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1360/WRF/Registry/registry.wrfplus
+END
+registry.elec
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1213/WRF/Registry/registry.elec
+END
+registry.clm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/840/WRF/Registry/registry.clm
+END
+registry.chem
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1417/WRF/Registry/registry.chem
+END
+registry.afwa
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1417/WRF/Registry/registry.afwa
+END
+registry.stoch
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1417/WRF/Registry/registry.stoch
+END
+registry.sbm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1207/WRF/Registry/registry.sbm
+END
+registry.dimspec
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1417/WRF/Registry/registry.dimspec
+END
+registry.new3d_wif
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1213/WRF/Registry/registry.new3d_wif
+END
+registry.fire
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1328/WRF/Registry/registry.fire
+END
+registry.rasm_diag
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1213/WRF/Registry/registry.rasm_diag
+END
+registry.diags
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1072/WRF/Registry/registry.diags
+END
+registry.io_boilerplate
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/834/WRF/Registry/registry.io_boilerplate
+END
+Registry.EM_CHEM
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1328/WRF/Registry/Registry.EM_CHEM
+END
+registry.ssib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/613/WRF/Registry/registry.ssib
+END
+registry.cam
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1072/WRF/Registry/registry.cam
+END
+registry.tornado
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1207/WRF/Registry/registry.tornado
+END
+Registry.wrfvar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1207/WRF/Registry/Registry.wrfvar
+END

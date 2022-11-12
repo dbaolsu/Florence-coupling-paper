@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/coawstmodel/COAWST/!svn/ver/1206/WPS/util
+END
+vertical_grid_70_20m_80km.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/425/WPS/util/vertical_grid_70_20m_80km.txt
+END
+plotfmt.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/851/WPS/util/plotfmt.ncl
+END
+plotfmt_nc.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/851/WPS/util/plotfmt_nc.ncl
+END
+plotgrids_old.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/851/WPS/util/plotgrids_old.ncl
+END
+plotgrids.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/882/WPS/util/plotgrids.ncl
+END
+gfs_old.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1077/WPS/util/gfs_old.ncl
+END
+gfs.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1206/WPS/util/gfs.ncl
+END
+plotgrids_new.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/882/WPS/util/plotgrids_new.ncl
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/425/WPS/util/Makefile
+END
+vertical_grid_38_20m_G3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/425/WPS/util/vertical_grid_38_20m_G3.txt
+END
+vertical_grid_50_20m_63km.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/425/WPS/util/vertical_grid_50_20m_63km.txt
+END

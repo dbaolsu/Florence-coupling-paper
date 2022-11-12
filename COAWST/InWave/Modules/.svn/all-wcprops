@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/coawstmodel/COAWST/!svn/ver/1471/InWave/Modules
+END
+mod_inwave_params.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1440/InWave/Modules/mod_inwave_params.F
+END
+mod_inwave_bound.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1261/InWave/Modules/mod_inwave_bound.F
+END
+mod_inwave_swan.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1471/InWave/Modules/mod_inwave_swan.F
+END
+mod_inwave_vars.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1261/InWave/Modules/mod_inwave_vars.F
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/523/InWave/Modules/Module.mk
+END

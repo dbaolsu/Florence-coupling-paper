@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/coawstmodel/COAWST/!svn/ver/1480/ESM
+END
+coupling_esmf_wrf.dat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1480/ESM/coupling_esmf_wrf.dat
+END
+wrf_implicit.runconfig
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1480/ESM/wrf_implicit.runconfig
+END
+wrf_Makefile.esmf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1369/ESM/wrf_Makefile.esmf
+END
+build_wrf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1471/ESM/build_wrf.sh
+END
+wrf_explicit.runconfig
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1480/ESM/wrf_explicit.runconfig
+END
+build_wrf.bash
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1471/ESM/build_wrf.bash
+END
+wrf_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1369/ESM/wrf_Makefile
+END
+build_cice.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1471/ESM/build_cice.sh
+END
+wrf_Config.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1369/ESM/wrf_Config.pl
+END
+Readme
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/coawstmodel/COAWST/!svn/ver/1471/ESM/Readme
+END
+coupling_esmf.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1471/ESM/coupling_esmf.in
+END
+wrf_configure
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1369/ESM/wrf_configure
+END
+coupling_esmf.dat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1471/ESM/coupling_esmf.dat
+END
+data.runconfig
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1480/ESM/data.runconfig
+END
+coupling_esmf_coamps.dat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1480/ESM/coupling_esmf_coamps.dat
+END
+data_snapshots.runconfig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1480/ESM/data_snapshots.runconfig
+END
+wrf_add_configure.wrf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1369/ESM/wrf_add_configure.wrf
+END
+wrf_postamble
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1369/ESM/wrf_postamble
+END
+coamps_implicit.runconfig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1480/ESM/coamps_implicit.runconfig
+END
+wrf_configure.defaults
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1369/ESM/wrf_configure.defaults
+END
+wrf_Test1.F90
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1369/ESM/wrf_Test1.F90
+END
+coamps_explicit.runconfig
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1480/ESM/coamps_explicit.runconfig
+END
+coamps_implicit_wildcard.runconfig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1480/ESM/coamps_implicit_wildcard.runconfig
+END

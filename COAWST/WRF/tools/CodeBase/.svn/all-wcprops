@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1417/WRF/tools/CodeBase
+END
+nocontf90.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/nocontf90.c
+END
+subinfo_calls.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/subinfo_calls.c
+END
+deftab.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/deftab.c
+END
+wrfvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/wrfvar.c
+END
+sym.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/sym.c
+END
+symtab_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/symtab_gen.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1417/WRF/tools/CodeBase/Makefile
+END
+callgraph.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/callgraph.c
+END
+sym.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/sym.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/185/WRF/tools/CodeBase/util.c
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf
+END
+nc_vname.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_vname.m
+END
+nc_append.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_append.m
+END
+nc_read.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_read.m
+END
+nc_drename.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_drename.m
+END
+remove_record.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1331/Tools/mfiles/rutgers/netcdf/remove_record.m
+END
+nc_check.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_check.m
+END
+nc_attdel.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_attdel.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/Contents.m
+END
+check_records.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1331/Tools/mfiles/rutgers/netcdf/check_records.m
+END
+nc_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_test.m
+END
+nc_vinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_vinfo.m
+END
+nc_vdef.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_vdef.m
+END
+nc_inq.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_inq.m
+END
+nc_getatt.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_getatt.m
+END
+nc_constant.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_constant.m
+END
+nc_vnames.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_vnames.m
+END
+nc_write.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_write.m
+END
+check_metadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/check_metadata.m
+END
+nc_vrename.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_vrename.m
+END
+nc_stats.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_stats.m
+END
+nc_time.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_time.m
+END
+nc_dinfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_dinfo.m
+END
+nc_slice.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_slice.m
+END
+nc_interface.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_interface.m
+END
+roms_metadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/roms_metadata.m
+END
+nc_attadd.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_attadd.m
+END
+nc_dfixed.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_dfixed.m
+END
+nc_create.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1476/Tools/mfiles/rutgers/netcdf/nc_create.m
+END

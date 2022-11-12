@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/coawstmodel/COAWST/!svn/ver/1482/WRF
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/1416/WRF/LICENSE.txt
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/1477/WRF/configure
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/coawstmodel/COAWST/!svn/ver/1417/WRF/clean
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/coawstmodel/COAWST/!svn/ver/1417/WRF/compile
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/1416/WRF/README.md
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/coawstmodel/COAWST/!svn/ver/1477/WRF/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/coawstmodel/COAWST/!svn/ver/1477/WRF/Makefile
+END

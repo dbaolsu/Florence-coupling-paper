@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB
+END
+yowsidepool.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowsidepool.ftn
+END
+yownodepool.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yownodepool.ftn
+END
+yowpdlibmain.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowpdlibmain.ftn
+END
+yowrankModule.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowrankModule.ftn
+END
+yowdatapool.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowdatapool.ftn
+END
+yowelementpool.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowelementpool.ftn
+END
+yowpd.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowpd.ftn
+END
+yowfunction.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowfunction.ftn
+END
+yowerr.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowerr.ftn
+END
+yowexchangeModule.ftn
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/ftn/PDLIB/yowexchangeModule.ftn
+END

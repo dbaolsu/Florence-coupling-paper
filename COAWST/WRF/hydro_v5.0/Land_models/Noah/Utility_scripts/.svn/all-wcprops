@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_scripts
+END
+modify_wrfinput.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_scripts/modify_wrfinput.ncl
+END
+ncep_rad_gribextract.csh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_scripts/ncep_rad_gribextract.csh
+END
+ndas_surface_gribextract.csh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_scripts/ndas_surface_gribextract.csh
+END
+nam_3d_gribextract.csh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/Utility_scripts/nam_3d_gribextract.csh
+END

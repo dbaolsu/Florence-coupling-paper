@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src
+END
+remap_vars.F
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_vars.F
+END
+remap_conserv.F
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_conserv.F
+END
+netcdf.F
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/netcdf.F
+END
+timers.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/timers.f
+END
+remap_bilinear_reduced.f
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_bilinear_reduced.f
+END
+remap_gauswgt.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_gauswgt.f
+END
+kinds_mod.f
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/kinds_mod.f
+END
+grids.f
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/grids.f
+END
+remap_distwgt.F
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_distwgt.F
+END
+remap_bilinear.f
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_bilinear.f
+END
+constants.f
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/constants.f
+END
+remap_write.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_write.f
+END
+scrip.F
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/scrip.F
+END
+remap_bicubic.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_bicubic.f
+END
+fracnnei.f
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/fracnnei.f
+END
+mod_oasis_flush.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/mod_oasis_flush.F90
+END
+remap_bicubic_reduced.F90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/remap_bicubic_reduced.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/Makefile
+END
+iounits.f
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/iounits.f
+END
+distance.f
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/scrip/src/distance.f
+END

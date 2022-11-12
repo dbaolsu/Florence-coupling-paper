@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics
+END
+kwm_grid_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/kwm_grid_utilities.F
+END
+kwm_string_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/kwm_string_utilities.F
+END
+fluxes_statistics.F
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/fluxes_statistics.F
+END
+module_hd.F
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/module_hd.F
+END
+get_unused_unit.F
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/get_unused_unit.F
+END
+lccone.F
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/lccone.F
+END
+llxy_generic.F
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/llxy_generic.F
+END
+namelist.fluxstats
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/namelist.fluxstats
+END
+kwm_date_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/kwm_date_utilities.F
+END
+kwm_plot_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/kwm_plot_utilities.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/VERIFICATION/Fluxes_statistics/Makefile
+END

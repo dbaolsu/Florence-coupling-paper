@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1388/WRF/test/em_fire
+END
+namelist.fire
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/607/WRF/test/em_fire/namelist.fire
+END
+namelist.fire_hill_simple
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_fire/namelist.fire_hill_simple
+END
+namelist.fire_two_fires
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_fire/namelist.fire_two_fires
+END
+input_sounding
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1364/WRF/test/em_fire/input_sounding
+END
+input_sounding_hill_simple
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_fire/input_sounding_hill_simple
+END
+input_sounding_two_fires
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_fire/input_sounding_two_fires
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1211/WRF/test/em_fire/namelist.input
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1207/WRF/test/em_fire/README.txt
+END
+namelist.input_hill_simple
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_fire/namelist.input_hill_simple
+END
+namelist.input_two_fires
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_fire/namelist.input_two_fires
+END
+create_links.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/614/WRF/test/em_fire/create_links.sh
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src
+END
+mod_oasis_mpi.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_mpi.F90
+END
+mod_oasis_grid.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_grid.F90
+END
+mod_oasis_getput_interface.F90
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_getput_interface.F90
+END
+mod_oasis_var.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_var.F90
+END
+mod_prism.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_prism.F90
+END
+mod_oasis_advance.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_advance.F90
+END
+mod_oasis_parameters.F90
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_parameters.F90
+END
+mod_oasis_string.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_string.F90
+END
+mod_oasis_part.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_part.F90
+END
+mod_oasis_io.F90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_io.F90
+END
+mod_oasis_kinds.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_kinds.F90
+END
+mod_oasis_data.F90
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_data.F90
+END
+mod_oasis_coupler.F90
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_coupler.F90
+END
+mod_oasis_sys.F90
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_sys.F90
+END
+mod_oasis_method.F90
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_method.F90
+END
+mod_oasis.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis.F90
+END
+mod_oasis_timer.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_timer.F90
+END
+mod_oasis_namcouple.F90
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_namcouple.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/Makefile
+END
+mod_oasis_ioshr.F90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tp2.14/input/oasis3-mct/lib/psmile/src/mod_oasis_ioshr.F90
+END

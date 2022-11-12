@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_verif_obs
+END
+da_verif_obs.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_verif_obs/da_verif_obs.f90
+END
+da_verif_obs_control.f90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_verif_obs/da_verif_obs_control.f90
+END
+da_verif_obs_init.f90
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_verif_obs/da_verif_obs_init.f90
+END
+da_verif_tools.f90
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_verif_obs/da_verif_tools.f90
+END

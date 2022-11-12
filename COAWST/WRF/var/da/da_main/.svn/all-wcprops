@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_main
+END
+da_wrfvar_esmf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_esmf.f90
+END
+da_med_initialdata_output_lbc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_med_initialdata_output_lbc.inc
+END
+da_wrfvar_init1.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_init1.inc
+END
+da_solve_init.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_solve_init.inc
+END
+da_esmf_finalize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_esmf_finalize.inc
+END
+da_wrfvar_init2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_main/da_wrfvar_init2.inc
+END
+da_esmf_init.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_esmf_init.inc
+END
+da_esmf_run.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_esmf_run.inc
+END
+da_wrfvar_top.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_top.f90
+END
+copyfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/copyfile.c
+END
+da_wrfvar_io.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_io.f90
+END
+da_wrfvar_esmf_super.f90
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_esmf_super.f90
+END
+da_med_initialdata_input.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_main/da_med_initialdata_input.inc
+END
+da_wrfvar_interface.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_interface.inc
+END
+da_wrfvar_finalize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_finalize.inc
+END
+da_solve.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_main/da_solve.inc
+END
+da_med_initialdata_output.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_med_initialdata_output.inc
+END
+da_solve_dual_res_init.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_solve_dual_res_init.inc
+END
+da_wrfvar_run.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_run.inc
+END
+da_update_firstguess.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/da/da_main/da_update_firstguess.inc
+END
+da_wrfvar_main.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_main/da_wrfvar_main.f90
+END

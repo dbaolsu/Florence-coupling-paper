@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/coawstmodel/COAWST/!svn/ver/1483/Compilers
+END
+UNICOS-sn-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/UNICOS-sn-f90.mk
+END
+Darwin-xlf.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Darwin-xlf.mk
+END
+Linux-pgi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-pgi.mk
+END
+Linux-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-ifort.mk
+END
+CYGWIN-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/CYGWIN-gfortran.mk
+END
+Darwin-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Darwin-f90.mk
+END
+CYGWIN-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/CYGWIN-ifort.mk
+END
+IRIX64-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/IRIX64-f90.mk
+END
+Linux-path.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-path.mk
+END
+Linux-ftn-intel.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-ftn-intel.mk
+END
+Linux-ifc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-ifc.mk
+END
+UNICOS-mk-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/UNICOS-mk-f90.mk
+END
+MINGW-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/MINGW-gfortran.mk
+END
+Darwin-pgi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Darwin-pgi.mk
+END
+Darwin-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Darwin-gfortran.mk
+END
+Darwin-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Darwin-ifort.mk
+END
+my_build_paths.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1470/Compilers/my_build_paths.sh
+END
+SunOS-f95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/SunOS-f95.mk
+END
+AIX-xlf.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/AIX-xlf.mk
+END
+my_build_paths.bash
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1470/Compilers/my_build_paths.bash
+END
+Linux-ftn-gnu.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-ftn-gnu.mk
+END
+Linux-necsx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-necsx.mk
+END
+Linux-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-gfortran.mk
+END
+Linux-ftn-cray.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-ftn-cray.mk
+END
+MINGW-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/MINGW-g95.mk
+END
+Linux-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-ftn.mk
+END
+CYGWIN-df.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/CYGWIN-df.mk
+END
+SunOS-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/SunOS-ftn.mk
+END
+UNICOS-mp-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/UNICOS-mp-ftn.mk
+END
+make_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1470/Compilers/make_macros.h
+END
+Linux-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/Linux-g95.mk
+END
+CYGWIN-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/CYGWIN-g95.mk
+END
+OSF1-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1483/Compilers/OSF1-f90.mk
+END

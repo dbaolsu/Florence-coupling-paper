@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1481/Tools/mfiles/rutgers/coupling
+END
+wrf_weights.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1481/Tools/mfiles/rutgers/coupling/wrf_weights.m
+END
+c_weights.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1481/Tools/mfiles/rutgers/coupling/c_weights.m
+END
+coamps_weights.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1481/Tools/mfiles/rutgers/coupling/coamps_weights.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1481/Tools/mfiles/rutgers/coupling/Contents.m
+END
+smooth_weights.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1481/Tools/mfiles/rutgers/coupling/smooth_weights.m
+END

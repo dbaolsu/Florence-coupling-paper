@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_squall2d_y
+END
+input_sounding
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/185/WRF/test/em_squall2d_y/input_sounding
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1328/WRF/test/em_squall2d_y/namelist.input
+END

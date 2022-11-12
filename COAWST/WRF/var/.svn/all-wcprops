@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/coawstmodel/COAWST/!svn/ver/1477/WRF/var
+END
+README.basics
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/README.basics
+END
+README.radiance
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/README.radiance
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/.gitignore
+END
+README.namelist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/README.namelist
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1414/WRF/var/Makefile
+END

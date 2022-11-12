@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_reporting
+END
+da_message.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_reporting/da_message.inc
+END
+da_warning.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_reporting/da_warning.inc
+END
+da_message2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_reporting/da_message2.inc
+END
+da_error.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_reporting/da_error.inc
+END
+da_reporting.f90
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/da/da_reporting/da_reporting.f90
+END

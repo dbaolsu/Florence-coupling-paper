@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/MPP
+END
+CPL_WRF.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/MPP/CPL_WRF.F
+END
+module_mpp_GWBUCKET.F
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/MPP/module_mpp_GWBUCKET.F
+END
+module_mpp_ReachLS.F
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/MPP/module_mpp_ReachLS.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/MPP/Makefile
+END
+Makefile.NoahMP
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/MPP/Makefile.NoahMP
+END
+mpp_land.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/MPP/mpp_land.F
+END

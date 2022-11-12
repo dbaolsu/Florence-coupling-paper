@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/coawstmodel/COAWST/!svn/ver/1477/WRF/share
+END
+module_compute_geop.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/834/WRF/share/module_compute_geop.F
+END
+init_modules.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/init_modules.F
+END
+module_string_tools.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1416/WRF/share/module_string_tools.F
+END
+module_trajectory.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1212/WRF/share/module_trajectory.F
+END
+module_interp_fcn.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/185/WRF/share/module_interp_fcn.F
+END
+mediation_wrfmain.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1328/WRF/share/mediation_wrfmain.F
+END
+module_llxy.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/834/WRF/share/module_llxy.F
+END
+module_io_domain_defs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/421/WRF/share/module_io_domain_defs.m4
+END
+module_MPP.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/185/WRF/share/module_MPP.F
+END
+bobrand.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/613/WRF/share/bobrand.c
+END
+module_optional_input.F
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1328/WRF/share/module_optional_input.F
+END
+set_timekeeping.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/set_timekeeping.F
+END
+module_interp_nmm.F
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/module_interp_nmm.F
+END
+input_wrf.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1477/WRF/share/input_wrf.F
+END
+sint.F
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/sint.F
+END
+mediation_interp_domain.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1328/WRF/share/mediation_interp_domain.F
+END
+module_interp_store.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/882/WRF/share/module_interp_store.F
+END
+module_check_a_mundo.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1477/WRF/share/module_check_a_mundo.F
+END
+wrf_bdyout.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/wrf_bdyout.F
+END
+module_random.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/613/WRF/share/module_random.F
+END
+wrf_timeseries.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1417/WRF/share/wrf_timeseries.F
+END
+mediation_nest_move.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/mediation_nest_move.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1417/WRF/share/Makefile
+END
+wrf_restartin.F
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/wrf_restartin.F
+END
+wrf_ext_write_field.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1072/WRF/share/wrf_ext_write_field.F
+END
+wrf_tsin.F
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1417/WRF/share/wrf_tsin.F
+END
+module_date_time.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1072/WRF/share/module_date_time.F
+END
+start_domain_nmm.int
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/419/WRF/share/start_domain_nmm.int
+END
+module_model_constants.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1417/WRF/share/module_model_constants.F
+END
+module_bc_time_utilities.F
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/607/WRF/share/module_bc_time_utilities.F
+END
+dfi.F
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/coawstmodel/COAWST/!svn/ver/1417/WRF/share/dfi.F
+END
+module_io_domain.F
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/module_io_domain.F
+END
+mediation_feedback_domain.F
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/mediation_feedback_domain.F
+END
+solve_nmm.int
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/419/WRF/share/solve_nmm.int
+END
+module_get_file_names.F
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/882/WRF/share/module_get_file_names.F
+END
+set_timekeeping_alarms.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/421/WRF/share/set_timekeeping_alarms.m4
+END
+wrf_fddaobs_in.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1477/WRF/share/wrf_fddaobs_in.F
+END
+landread.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/882/WRF/share/landread.c
+END
+set_timekeeping_defs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/421/WRF/share/set_timekeeping_defs.m4
+END
+solve_interface.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1328/WRF/share/solve_interface.F
+END
+landread.c.dist
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/842/WRF/share/landread.c.dist
+END
+start_domain_em.int
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/185/WRF/share/start_domain_em.int
+END
+mediation_integrate.F
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1417/WRF/share/mediation_integrate.F
+END
+landread.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/185/WRF/share/landread.h
+END
+setfeenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/421/WRF/share/setfeenv.c
+END
+wrf_ext_read_field.F
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1072/WRF/share/wrf_ext_read_field.F
+END
+mediation_force_domain.F
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/coawstmodel/COAWST/!svn/ver/1328/WRF/share/mediation_force_domain.F
+END
+output_wrf.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1328/WRF/share/output_wrf.F
+END
+solve_em.int
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/185/WRF/share/solve_em.int
+END
+track_driver.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1417/WRF/share/track_driver.F
+END
+module_soil_pre.F
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1417/WRF/share/module_soil_pre.F
+END
+track_input.F
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/track_input.F
+END
+wrf_bdyin.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/wrf_bdyin.F
+END
+start_domain.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1328/WRF/share/start_domain.F
+END
+interp_fcn.F
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/interp_fcn.F
+END
+module_bc.F
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1328/WRF/share/module_bc.F
+END
+module_io_wrf.F
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/419/WRF/share/module_io_wrf.F
+END
+wrf_restartout.F
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1207/WRF/share/wrf_restartout.F
+END

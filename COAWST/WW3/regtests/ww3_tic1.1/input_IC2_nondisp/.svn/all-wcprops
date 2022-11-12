@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp
+END
+ww3_shel.inp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_shel.inp
+END
+ww3_shel.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_shel.nml
+END
+switch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/switch
+END
+ww3_strt.inp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_strt.inp
+END
+ww3_outf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_outf.inp
+END
+icecon.156x3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/icecon.156x3.txt
+END
+namelists_1-D.nml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/namelists_1-D.nml
+END
+points.list
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/points.list
+END
+ww3_grid.inp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_grid.inp
+END
+ww3_grid.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_grid.nml
+END
+ww3_prep_icecon.inp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_prep_icecon.inp
+END
+ww3_ounf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_ounf.inp
+END
+ww3_ounf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_tic1.1/input_IC2_nondisp/ww3_ounf.nml
+END

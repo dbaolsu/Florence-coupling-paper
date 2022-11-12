@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/300/Lib/ARPACK/EXAMPLES/SVD
+END
+ssvd.f
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/300/Lib/ARPACK/EXAMPLES/SVD/ssvd.f
+END
+dsvd.f
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/300/Lib/ARPACK/EXAMPLES/SVD/dsvd.f
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/300/Lib/ARPACK/EXAMPLES/SVD/debug.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/300/Lib/ARPACK/EXAMPLES/SVD/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/300/Lib/ARPACK/EXAMPLES/SVD/makefile
+END

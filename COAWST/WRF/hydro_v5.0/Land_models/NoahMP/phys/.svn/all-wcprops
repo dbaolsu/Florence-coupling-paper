@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/phys
+END
+module_sf_noahmpdrv.F
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/phys/module_sf_noahmpdrv.F
+END
+module_sf_noahmplsm.F
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/phys/module_sf_noahmplsm.F
+END
+module_sf_noahmp_groundwater.F
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/phys/module_sf_noahmp_groundwater.F
+END
+module_sf_noahmp_glacier.F
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/phys/module_sf_noahmp_glacier.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/phys/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/LIS_cpl
+END
+module_lis_HYDRO.F
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/LIS_cpl/module_lis_HYDRO.F
+END
+Makefile.cpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/LIS_cpl/Makefile.cpl
+END
+lis_drv_HYDRO.F
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/LIS_cpl/lis_drv_HYDRO.F
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/CPL/LIS_cpl/Makefile
+END

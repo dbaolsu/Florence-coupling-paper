@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/mechanisms/racm_soa_vbs_aqchem
+END
+racm_soa_vbs_aqchem.spc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/mechanisms/racm_soa_vbs_aqchem/racm_soa_vbs_aqchem.spc
+END
+racm_soa_vbs_aqchem.kpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/mechanisms/racm_soa_vbs_aqchem/racm_soa_vbs_aqchem.kpp
+END
+racm_soa_vbs_aqchem.def
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/mechanisms/racm_soa_vbs_aqchem/racm_soa_vbs_aqchem.def
+END
+atoms_red
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/mechanisms/racm_soa_vbs_aqchem/atoms_red
+END
+racm_soa_vbs_aqchem_wrfkpp.equiv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/mechanisms/racm_soa_vbs_aqchem/racm_soa_vbs_aqchem_wrfkpp.equiv
+END
+racm_soa_vbs_aqchem.eqn
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/coawstmodel/COAWST/!svn/ver/1362/WRF/chem/KPP/mechanisms/racm_soa_vbs_aqchem/racm_soa_vbs_aqchem.eqn
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar
+END
+gmao_airs_bufr.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar/gmao_airs_bufr.tbl
+END
+VEGPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar/VEGPARM.TBL
+END
+radiance_info
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar/radiance_info
+END
+SOILPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar/SOILPARM.TBL
+END
+GENPARM.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar/GENPARM.TBL
+END
+namelist.input
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar/namelist.input
+END
+LANDUSE.TBL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar/LANDUSE.TBL
+END
+RRTM_DATA
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1363/WRF/var/test/4dvar/RRTM_DATA
+END

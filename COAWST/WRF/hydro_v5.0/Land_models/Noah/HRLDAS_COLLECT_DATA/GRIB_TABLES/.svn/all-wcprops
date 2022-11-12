@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/GRIB_TABLES
+END
+GRIB1_PARAMETER_TABLE
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/GRIB_TABLES/GRIB1_PARAMETER_TABLE
+END
+GRIB2_PARAMETER_TABLE
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/Noah/HRLDAS_COLLECT_DATA/GRIB_TABLES/GRIB2_PARAMETER_TABLE
+END

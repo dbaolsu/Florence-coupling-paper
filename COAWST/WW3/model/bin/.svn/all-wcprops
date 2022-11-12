@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin
+END
+comp.Portland
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Portland
+END
+switch_NCEP_gwm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NCEP_gwm
+END
+switch_UKMO_gbl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_UKMO_gbl
+END
+make_makefile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/make_makefile.sh
+END
+comp.Altix_debug
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Altix_debug
+END
+link.theia
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.theia
+END
+README.NRL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/README.NRL
+END
+link.Gnu_debug
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.Gnu_debug
+END
+link.Mpt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.Mpt
+END
+README.UoM
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/README.UoM
+END
+comp.Mpt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Mpt
+END
+link.Lahey
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.Lahey
+END
+link.NEC
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.NEC
+END
+find_switch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/find_switch
+END
+switch_USACE_1
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_USACE_1
+END
+switch_swin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_swin
+END
+link.Mpt_debug
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.Mpt_debug
+END
+comp.NEC
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.NEC
+END
+switch_USACE_2
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_USACE_2
+END
+comp.SGI_Xeon_Intel
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.SGI_Xeon_Intel
+END
+switch_NCEP_glwu
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NCEP_glwu
+END
+link.mac_pro_Intel
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.mac_pro_Intel
+END
+link.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.tmpl
+END
+switch_NCEP_st4sbs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NCEP_st4sbs
+END
+comp.wcoss_cray
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.wcoss_cray
+END
+w3_source
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/w3_source
+END
+link.gfortran
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.gfortran
+END
+make_HYB
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/make_HYB
+END
+w3_automake
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/w3_automake
+END
+switch_UoM_nl3s
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_UoM_nl3s
+END
+all_switches
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/all_switches
+END
+README.NCEP
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/README.NCEP
+END
+ww3_from_ftp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/ww3_from_ftp.sh
+END
+switch_UKMO_reg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_UKMO_reg
+END
+w3_clean
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/w3_clean
+END
+switch_NRL1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NRL1
+END
+link.cray_xc.Intel
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.cray_xc.Intel
+END
+switch_NRL2
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NRL2
+END
+WW3_switch_process
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/WW3_switch_process
+END
+switch_NRL3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NRL3
+END
+switch_NRL4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NRL4
+END
+link.SGI_Xeon_Intel
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.SGI_Xeon_Intel
+END
+cmplr.env
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/cmplr.env
+END
+link.cray_xt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.cray_xt
+END
+link.cray_xc.Portland
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.cray_xc.Portland
+END
+comp.DATARMOR
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.DATARMOR
+END
+comp.cray_xt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.cray_xt
+END
+ad3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/ad3
+END
+link.wcoss_cray
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.wcoss_cray
+END
+comp.Intel
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Intel
+END
+sort_switch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/sort_switch
+END
+comp.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.tmpl
+END
+arc_wwatch3_tar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/arc_wwatch3_tar
+END
+comp.DATARMOR_debug
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.DATARMOR_debug
+END
+link.Intel_debug
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.Intel_debug
+END
+comp.Intel_debug
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.Intel_debug
+END
+comp.gfortran
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.gfortran
+END
+make_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/make_MPI
+END
+link.Gnu
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.Gnu
+END
+comp.Gnu
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Gnu
+END
+w3_make
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/w3_make
+END
+comp.theia
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.theia
+END
+switch_Ifremer1
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_Ifremer1
+END
+switch_UKMO_uk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_UKMO_uk
+END
+ln3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/ln3
+END
+link.wcoss_phase2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.wcoss_phase2
+END
+comp.Gnu_debug
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Gnu_debug
+END
+switch_Ifremer2
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_Ifremer2
+END
+switch_UKMO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_UKMO
+END
+comp.datamor.intel
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.datamor.intel
+END
+comp.Lahey
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Lahey
+END
+comp.Mpt_debug
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Mpt_debug
+END
+README.UKMO
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/README.UKMO
+END
+comp.cray_xc.Portland
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.cray_xc.Portland
+END
+wwatch3.env
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/wwatch3.env
+END
+comp.mac_pro_Intel
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.mac_pro_Intel
+END
+list
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/list
+END
+install_ww3_tar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/install_ww3_tar
+END
+switch_ite_pdlib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_ite_pdlib
+END
+w3_setenv
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/w3_setenv
+END
+link.Portland
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.Portland
+END
+switch_OASACM
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_OASACM
+END
+link.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.xlf
+END
+README.Ifremer
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/README.Ifremer
+END
+comp.xlf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.xlf
+END
+make_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/make_OMP
+END
+sort_all_switches
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/sort_all_switches
+END
+switch_UoM_nl1
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_UoM_nl1
+END
+switch_OASICM
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_OASICM
+END
+comp.wcoss_phase2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.wcoss_phase2
+END
+switch_UoM_nl3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_UoM_nl3
+END
+switch_NCEP_st2
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NCEP_st2
+END
+comp.cray_xc.Intel
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.cray_xc.Intel
+END
+switch_sandy
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_sandy
+END
+switch_NCEP_st4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_NCEP_st4
+END
+link.kubuntu.intel.mpich
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.kubuntu.intel.mpich
+END
+switch_OASOCM
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_OASOCM
+END
+w3_new
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/w3_new
+END
+comp.kubuntu.intel.mpich
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/comp.kubuntu.intel.mpich
+END
+ad3_test
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/ad3_test
+END
+switch_Ifremer2_pdlib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_Ifremer2_pdlib
+END
+link.Intel
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/link.Intel
+END
+w3_setup
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/w3_setup
+END
+switch_ugdev2
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/switch_ugdev2
+END
+comp.Altix
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/coawstmodel/COAWST/!svn/ver/1479/WW3/model/bin/comp.Altix
+END
+ww3_gspl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/coawstmodel/COAWST/!svn/ver/1410/WW3/model/bin/ww3_gspl.sh
+END

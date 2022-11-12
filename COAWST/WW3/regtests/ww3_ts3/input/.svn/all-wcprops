@@ -1,0 +1,785 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input
+END
+switch_ST1_PR1_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR1_MPI
+END
+switch_ST2_PR1_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR1_MPI
+END
+switch_ST3_PR1_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR1_MPI
+END
+switch_ST4_PR1_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR1_MPI
+END
+switch_ST3_PR2_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR2_UQ
+END
+switch_ST6_PR1_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR1_MPI
+END
+switch_ST6_PR3_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR3_UQ
+END
+switch_ST3_PR3_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR3_UNO_MPI_OMPH
+END
+switch_ST4_PR2_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR2_UQ_MPI
+END
+switch_ST1_PR2_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR2_UQ_OMP
+END
+switch_ST4_PR3_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR3_UQ_OMP
+END
+MOVING.depth
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/MOVING.depth
+END
+switch_ST6_PR1_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR1_MPI_OMPH
+END
+switch_ST4_TSA_PR3_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_TSA_PR3_UNO
+END
+switch_ST1_PR2_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR2_UNO_OMP
+END
+switch_ST1_PR3_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR3_UNO_OMP
+END
+switch_ST1_PR3_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR3_UQ_MPI_OMPH
+END
+switch_ST3_PR2_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR2_UNO_OMP
+END
+switch_ST2_PR3_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR3_UQ_MPI_OMPH
+END
+switch_ST3_PR3_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR3_UNO_OMP
+END
+switch_ST3_PR3_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR3_UQ_MPI_OMPH
+END
+switch_ST4_PR3_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR3_UQ_MPI_OMPH
+END
+switch_ST6_PR3_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR3_UQ_MPI_OMPH
+END
+switch_ST2_PR2_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR2_UQ
+END
+switch_ST1_PR2_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR2_UNO_MPI_OMPH
+END
+wind.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/wind.f
+END
+switch_ST1_PR1_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR1_OMP
+END
+switch_ST2_PR1_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR1_OMP
+END
+switch_ST2_PR3_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR3_UQ_MPI
+END
+switch_ST3_PR1_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR1_OMP
+END
+switch_ST4_PR3_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR3_UNO_MPI_OMPH
+END
+switch_ST4_PR1_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR1_OMP
+END
+switch_ST6_PR1_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR1_OMP
+END
+switch_ST4_PR2_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR2_UQ_OMP
+END
+switch_ST3_PR1_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR1_MPI_OMPH
+END
+switch_ST4_TSA_PR3_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_TSA_PR3_UNO_MPI
+END
+switch_ST1_PR2_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR2_UQ
+END
+switch_ST4_PR1_FLD1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR1_FLD1
+END
+switch_ST4_PR3_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR3_UQ
+END
+switch_ST4_PR1_FLD2
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR1_FLD2
+END
+switch_ST2_PR2_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR2_UNO_MPI_OMPH
+END
+switch_ST2_PR2_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR2_UQ_MPI
+END
+ww3_ounf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_ounf.inp
+END
+switch_ST1_PR2_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR2_UNO
+END
+switch_ST2_PR2_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR2_UNO
+END
+switch_ST2_PR3_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR3_UQ_OMP
+END
+ww3_outf_ITYPE2.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_outf_ITYPE2.inp
+END
+switch_ST3_PR2_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR2_UNO
+END
+switch_ST4_TSA_PR3_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_TSA_PR3_UNO_MPI_OMPH
+END
+switch_ST4_PR2_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR2_UNO
+END
+switch_ST6_PR2_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR2_UNO
+END
+switch_ST1_PR1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR1
+END
+ww3_prep_wind.inp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_prep_wind.inp
+END
+switch_ST3_PR1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR1
+END
+ww3_shel.inp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_shel.inp
+END
+switch_ST4_TSA_PR3_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_TSA_PR3_UNO_OMP
+END
+switch_ST4_TSA_PR3_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_TSA_PR3_UQ_MPI_OMPH
+END
+switch_ST3_PR3_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR3_UQ
+END
+switch_ST3_PR2_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR2_UNO_MPI_OMPH
+END
+switch_ST4_PR1_FLD1_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR1_FLD1_MPI
+END
+switch_ST6_PR3_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR3_UNO_MPI_OMPH
+END
+ww3_ounf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_ounf.nml
+END
+switch_ST2_PR2_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR2_UQ_OMP
+END
+switch_ST2_PR2_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR2_UNO_MPI
+END
+switch_ST2_PR3_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR3_UNO_MPI
+END
+switch_ST4_PR2_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR2_UNO_MPI
+END
+switch_ST4_PR3_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR3_UNO_MPI
+END
+switch_ST6_PR2_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR2_UNO_MPI
+END
+switch_ST6_PR3_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR3_UNO_MPI
+END
+ww3_shel.nml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_shel.nml
+END
+switch_ST2_PR3_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR3_UQ
+END
+switch_ST4_PR2_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR2_UNO_MPI_OMPH
+END
+switch_ST3_PR3_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR3_UQ_MPI
+END
+map_s3.gs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/map_s3.gs
+END
+switch_ST2_PR1_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR1_MPI_OMPH
+END
+switch_ST1_PR2_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR2_UQ_MPI_OMPH
+END
+switch_ST2_PR2_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR2_UNO_OMP
+END
+switch_ST2_PR2_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR2_UQ_MPI_OMPH
+END
+switch_ST2_PR3_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR3_UNO_OMP
+END
+switch_ST4_PR2_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR2_UNO_OMP
+END
+switch_ST3_PR2_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR2_UQ_MPI_OMPH
+END
+switch_ST4_PR3_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR3_UNO_OMP
+END
+switch_ST4_PR2_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR2_UQ_MPI_OMPH
+END
+switch_ST6_PR2_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR2_UNO_OMP
+END
+switch_ST6_PR3_UNO_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR3_UNO_OMP
+END
+switch_ST6_PR2_UQ_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR2_UQ_MPI_OMPH
+END
+switch_ST1_PR3_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR3_UQ
+END
+switch_ST6_PR2_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR2_UQ
+END
+points.list
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/points.list
+END
+switch_ST3_PR2_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR2_UQ_MPI
+END
+switch_ST6_PR3_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR3_UQ_MPI
+END
+switch_ST4_TSA_PR3_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_TSA_PR3_UQ
+END
+switch_ST3_PR3_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR3_UQ_OMP
+END
+switch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch
+END
+switch_ST1_PR3_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR3_UNO_MPI_OMPH
+END
+switch_ST1_PR3_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR3_UQ_MPI
+END
+switch_ST6_PR2_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR2_UNO_MPI_OMPH
+END
+switch_ST6_PR2_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR2_UQ_MPI
+END
+ww3_outf_ITYPE1.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_outf_ITYPE1.inp
+END
+switch_ST1_PR3_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR3_UNO
+END
+switch_ST3_PR2_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR2_UQ_OMP
+END
+switch_ST2_PR3_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR3_UNO
+END
+ww3_outf_ITYPE3.inp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_outf_ITYPE3.inp
+END
+switch_ST3_PR3_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR3_UNO
+END
+switch_ST4_TSA_PR3_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_TSA_PR3_UQ_MPI
+END
+switch_ST4_PR3_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR3_UNO
+END
+gx_outf.inp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/gx_outf.inp
+END
+switch_ST6_PR3_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR3_UQ_OMP
+END
+switch_ST6_PR3_UNO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR3_UNO
+END
+namelists_MOVING.nml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/namelists_MOVING.nml
+END
+switch_ST4_PR1_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR1_MPI_OMPH
+END
+ww3_grid.inp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_grid.inp
+END
+gx_outp.inp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/gx_outp.inp
+END
+switch_ST2_PR1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR1
+END
+switch_ST4_PR1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR1
+END
+switch_ST6_PR1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR1
+END
+switch_ST4_PR2_UQ
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR2_UQ
+END
+switch_ST1_PR2_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR2_UQ_MPI
+END
+switch_ST2_PR3_UNO_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST2_PR3_UNO_MPI_OMPH
+END
+switch_ST4_PR3_UQ_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR3_UQ_MPI
+END
+switch_ST4_PR1_FLD2_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_PR1_FLD2_MPI
+END
+switch_ST1_PR3_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR3_UQ_OMP
+END
+switch_ST6_PR2_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST6_PR2_UQ_OMP
+END
+switch_ST1_PR2_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR2_UNO_MPI
+END
+switch_ST1_PR3_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR3_UNO_MPI
+END
+switch_ST1_PR1_MPI_OMPH
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST1_PR1_MPI_OMPH
+END
+switch_ST3_PR2_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR2_UNO_MPI
+END
+switch_ST3_PR3_UNO_MPI
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST3_PR3_UNO_MPI
+END
+switch_ST4_TSA_PR3_UQ_OMP
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/switch_ST4_TSA_PR3_UQ_OMP
+END
+ww3_grid.nml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1410/WW3/regtests/ww3_ts3/input/ww3_grid.nml
+END

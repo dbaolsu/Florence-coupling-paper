@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR
+END
+NARR_ELEVATION.grb.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/NARR_ELEVATION.grb.gz
+END
+extract_narr_init.perl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/extract_narr_init.perl
+END
+NARR_lat.gz
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/NARR_lat.gz
+END
+check_SW.ncl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/check_SW.ncl
+END
+extract_narr_sfc.perl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/extract_narr_sfc.perl
+END
+fill_DSWRF.f90
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/fill_DSWRF.f90
+END
+NARR_lon.gz
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/NARR_lon.gz
+END
+NARR.LANDSEA_MASK.grb.gz
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/NARR.LANDSEA_MASK.grb.gz
+END
+namelist.input.NARR
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/namelist.input.NARR
+END
+extract_narr_30m.perl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/extract_narr_30m.perl
+END
+fill_DSWRF.perl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/Land_models/NoahMP/HRLDAS_forcing/run/examples/NARR/fill_DSWRF.perl
+END

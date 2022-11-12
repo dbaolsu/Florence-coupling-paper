@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash
+END
+ww3_ounf_inp2nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/ww3_ounf_inp2nml.sh
+END
+ww3_multi_inp2nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/ww3_multi_inp2nml.sh
+END
+ww3_shel_inp2nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/ww3_shel_inp2nml.sh
+END
+loop_nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/loop_nml.sh
+END
+ww3_ounp_inp2nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/ww3_ounp_inp2nml.sh
+END
+ww3_prnc_inp2nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/ww3_prnc_inp2nml.sh
+END
+ww3_grid_inp2nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/ww3_grid_inp2nml.sh
+END
+ww3_bounc_inp2nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/ww3_bounc_inp2nml.sh
+END
+ww3_trnc_inp2nml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/coawstmodel/COAWST/!svn/ver/1481/WW3/model/auxx/bash/ww3_trnc_inp2nml.sh
+END

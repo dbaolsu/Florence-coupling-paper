@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/template
+END
+setEnvar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/coawstmodel/COAWST/!svn/ver/1478/WRF/hydro_v5.0/template/setEnvar.sh
+END
